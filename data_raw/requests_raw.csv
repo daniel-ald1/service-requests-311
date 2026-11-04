@@ -1,0 +1,1031 @@
+request_id,created_date,closed_date,district,request_type,channel,status,priority,response_days_raw,satisfaction
+REQ-00923,03-16-2026,04-06-2026,Bosa,Park Maintenance,Web,Closed,HIGH,21,5
+REQ-00229,17/04/2026,,rafael uribe,Noise Complaint,Web,Open,Low,12,
+REQ-00464,2025-08-30,08-31-2025,Rafael Uribe,  Streetlight ,Phone,Closed,CRITICAL,1,3
+REQ-00052,28/03/2026,03-31-2026,Bosa,Noise Complaint,Social Media,Closed,  High ,3,4
+REQ-00423,30/03/2026,2026-04-11,Antonio Narino,PARK MAINTENANCE,In Person,Closed,LOW,12,3
+REQ-00192,12/04/2025,,Barrios Unidos,Streetlight,Phone,Open,Critical,4,
+REQ-00591,03-14-2026,2026-03-14,PUENTE ARANDA,Park Maintenance,In Person,Cancelled,Medium,0,5
+REQ-00370,2025-09-15,2025-09-23,Usme,Park Maintenance,in person,Closed,medium,8,3
+REQ-00870,10/02/2025,02-20-2025,  Kennedy ,Sidewalk Repair,web,Closed,Critical,,5
+REQ-00796,11-15-2025,01/12/2025,Fontibon,WATER LEAK,In Person,Closed,Critical,16,3
+REQ-00045,01/10/2025,,san cristobal,graffiti,  Web ,  In Progress ,Critical,1,
+REQ-00264,2025-01-04,2025-01-07,Ciudad Bolivar,Park Maintenance,Social Media,  Closed ,  High ,3,4
+REQ-00500,12-29-2025,2026-01-05,Suba,Water Leak,,  Closed ,Low,7,1
+REQ-00582,2025-05-20,05-20-2025,  Tunjuelito ,Streetlight,In Person,CLOSED,Low,0,5
+REQ-00445,2025-07-13,07-13-2025,bosa,  Noise Complaint ,Phone,Cancelled,critical,0,1
+REQ-00332,31/10/2025,2025-11-01,Engativa,Graffiti,In Person,Cancelled,Critical,1,5
+REQ-00888,04/03/2026,,sumapaz,Streetlight,In Person,open,Critical,0,
+REQ-00566,2025-04-15,2025-04-15,Suba,Streetlight,Mobile App,Cancelled,Low,0,4
+REQ-00375,02/11/2025,2025-11-05,Ciudad Bolivar,water leak,  Phone ,Closed,  Low ,3,1
+REQ-00876,2025-06-14,2025-06-14,ENGATIVA,Waste Collection,in person,  Closed ,Medium,0,5
+REQ-00249,01-23-2026,,puente aranda,Water Leak,WEB,Open,Medium,1,
+REQ-00869,2025-06-25,2025-06-26,Puente Aranda,Streetlight,Phone,Cancelled,Medium,1,2
+REQ-00314,2026-06-05,2026-06-05,Martires,NOISE COMPLAINT,Web,Closed,Medium,0,1
+REQ-00680,2026-04-25,,Ciudad Bolivar,Streetlight,MOBILE APP,Open,Critical,1,
+REQ-00422,07-25-2025,,Usaquen,  Noise Complaint ,PHONE,In Progress,MEDIUM,1,
+REQ-00518,2025-03-05,05/03/2025,Puente Aranda,Water Leak,in person,  Closed ,HIGH,0,4
+REQ-00244,18/07/2025,2025-07-18,Antonio Narino,Graffiti,In Person,Closed,  Critical ,0,4
+REQ-00157,2026-01-05,,  Fontibon ,Noise Complaint,In Person,  Open ,Medium,2,
+REQ-00087,2025-09-17,,BOSA,  Streetlight ,SOCIAL MEDIA,Open,High,12,
+REQ-00594,05/07/2025,,Engativa,streetlight,in person,Open,CRITICAL,10,
+REQ-00252,30/05/2026,06-06-2026,engativa,Noise Complaint,phone,closed,Critical,7,5
+REQ-00528,17/07/2025,,Suba,Graffiti,Phone,Open,Critical,2,
+REQ-00336,2025-03-30,04/04/2025,  Fontibon ,Waste Collection,PHONE,Closed,Low,5,4
+REQ-00231,10-08-2025,10-14-2025,San Cristobal,Water Leak,Web,Closed,Critical,6,5
+REQ-00250,12/02/2026,2026-02-13,Bosa,pothole,Social Media,  Closed ,Medium,,3
+REQ-00220,2025-09-25,2025-09-25,USME,Park Maintenance,In Person,Cancelled,Medium,0,3
+REQ-00563,2026-01-23,23/01/2026,Usaquen,Noise Complaint,In Person,Closed,High,0,5
+REQ-00688,2025-03-05,05/03/2025,Rafael Uribe,Waste Collection,Social Media,Closed,High,0,1
+REQ-00533,2025-02-13,2025-02-22,Barrios Unidos,Water Leak,Web,Closed,low,9,5
+REQ-00359,2025-08-16,2025-08-23,MARTIRES,STREETLIGHT,PHONE,Closed,Medium,7,2
+REQ-00788,2026-05-28,2026-05-30,  Ciudad Bolivar ,STREETLIGHT,IN PERSON,Closed,medium,2,5
+REQ-00679,01-29-2025,2025-02-09,Barrios Unidos,Streetlight,SOCIAL MEDIA,Closed,Critical,11,5
+REQ-00111,2025-03-03,2025-03-03,  Chapinero ,SIDEWALK REPAIR,Web,CLOSED,Medium,0,1
+REQ-00225,2025-10-28,2025-11-14,  Kennedy ,Park Maintenance,Social Media,Closed,Low,17,
+REQ-00202,2025-07-11,,Usme,graffiti,mobile app,open,Medium,15,
+REQ-00752,2025-02-27,03-01-2025,BARRIOS UNIDOS,Noise Complaint,Phone,Closed,HIGH,2,4
+REQ-00362,01/05/2026,,Martires,Waste Collection,In Person,  In Progress ,critical,13,
+REQ-00592,03-06-2026,03-21-2026,Antonio Narino,Streetlight,Phone,Closed,Medium,15,3
+REQ-00412,23/03/2026,23/03/2026,tunjuelito,Noise Complaint,WEB,Closed,  Critical ,0,3
+REQ-00833,08/12/2025,12-10-2025,Engativa,Streetlight,Mobile App,Closed,High,2,
+REQ-00384,02/02/2025,04/02/2025,,  Sidewalk Repair ,Web,Closed,Critical,2,3
+REQ-00907,05-04-2025,2025-05-10,Fontibon,Sidewalk Repair,MOBILE APP,Closed,Critical,6,2
+REQ-00495,03-02-2025,2025-03-04,Antonio Narino,Sidewalk Repair,Mobile App,  Closed ,Medium,2,3
+REQ-00717,2025-05-06,05-18-2025,Tunjuelito,Pothole,phone,Closed,High,12,3
+REQ-00745,01-22-2026,22/01/2026,Ciudad Bolivar,sidewalk repair,Mobile App,Cancelled,low,0,5
+REQ-00967,2025-04-05,2025-04-12,Usaquen,Park Maintenance,PHONE,Closed,high,7,4
+REQ-00388,2026-01-20,30/01/2026,CIUDAD BOLIVAR,Park Maintenance,In Person,Closed,  Medium ,10,
+REQ-00748,04-10-2026,,  Bosa ,Sidewalk Repair,Phone,IN PROGRESS,LOW,25,4
+REQ-00989,2025-05-02,,San Cristobal,Noise Complaint,web,In Progress,Critical,11,
+REQ-00418,13/03/2026,13/03/2026,  Chapinero ,NOISE COMPLAINT,Social Media,Cancelled,Medium,0,2
+REQ-00841,2026-03-25,2026-03-27,Barrios Unidos,Park Maintenance,In Person,Closed,Medium,2,3
+REQ-00023,2025-04-09,11/04/2025,Fontibon,Park Maintenance,  Social Media ,  Closed ,  Medium ,2,5
+REQ-00292,03-12-2026,17/03/2026,Suba,Sidewalk Repair,In Person,Closed,  High ,5,3
+REQ-00707,2026-04-16,19/04/2026,Antonio Narino,Pothole,In Person,CLOSED,High,3,
+REQ-00311,2025-02-03,02-04-2025,CHAPINERO,Graffiti,Web,Closed,High,1,
+REQ-00183,2025-07-10,2025-07-10,fontibon,Streetlight,  In Person ,Closed,Critical,0,4
+REQ-00048,04-11-2025,11/04/2025,Martires,WASTE COLLECTION,WEB,CLOSED,Critical,0,1
+REQ-00947,2026-05-13,,Antonio Narino,Noise Complaint,Mobile App,  Open ,Medium,2,
+REQ-00568,12-22-2025,01-03-2026,MARTIRES,Park Maintenance,  Social Media ,Closed,Low,12,2
+REQ-00669,2026-05-02,2026-05-04,  Bosa ,Graffiti,Phone,Closed,HIGH,2,4
+REQ-00975,2025-07-25,2025-08-07,Martires,WATER LEAK,PHONE,Closed,MEDIUM,13,3
+REQ-00507,08-07-2025,14/08/2025,Tunjuelito,sidewalk repair,In Person,  In Progress ,Low,7,
+REQ-00685,2026-01-29,2026-02-03,Puente Aranda,Park Maintenance,Social Media,Closed,Medium,5,1
+REQ-00756,2025-05-03,05-05-2025,Ciudad Bolivar,Water Leak,  In Person ,  Closed ,LOW,2,2
+REQ-00460,25/04/2025,,SAN CRISTOBAL,Waste Collection,  Web ,Open,critical,4,
+REQ-00898,2025-07-18,,  Tunjuelito ,WASTE COLLECTION,,In Progress,MEDIUM,6,
+REQ-00895,10-29-2025,11-01-2025,Suba,,Phone,Closed,Medium,3,3
+REQ-00731,2026-01-15,2026-01-16,  Suba ,Streetlight,Web,Closed,Medium,1,1
+REQ-00313,11-30-2025,01/12/2025,Usme,Graffiti,In Person,Closed,High,1,3
+REQ-00998,01/02/2026,,Kennedy,PARK MAINTENANCE,Mobile App,Open,Medium,1,
+REQ-00498,20/06/2025,25/06/2025,San Cristobal,Graffiti,,Closed,Medium,5,3
+REQ-00465,08-21-2025,08-30-2025,  Engativa ,GRAFFITI,Social Media,Closed,Critical,9,5
+REQ-00439,2025-10-24,2025-11-23,Santa Fe,,Phone,Cancelled,High,30,4
+REQ-00529,05-10-2025,20/05/2025,  Candelaria ,Park Maintenance,Web,Closed,High,10,5
+REQ-00629,2026-05-03,,San Cristobal,Noise Complaint,In Person,Open,Low,15,
+REQ-00857,2025-01-06,,Rafael Uribe,pothole,Web,In Progress,low,10,1
+REQ-00830,09/02/2026,2026-02-25,Suba,Streetlight,Web,  Closed ,  High ,16,5
+REQ-00659,11-01-2025,2025-11-15,TUNJUELITO,pothole,phone,Closed,low,14,
+REQ-00985,2025-08-12,,CIUDAD BOLIVAR,Water Leak,Social Media,open,High,0,
+REQ-00530,2025-11-15,2025-11-19,Usaquen,WATER LEAK,mobile app,Closed,Critical,4,2
+REQ-00334,2025-02-27,03-12-2025,Antonio Narino,STREETLIGHT,Social Media,Cancelled,High,13,3
+REQ-00827,12/05/2025,2025-05-16,Martires,streetlight,  Phone ,closed,  Critical ,4,
+REQ-00291,14/01/2025,,KENNEDY,Noise Complaint,mobile app,CLOSED,Medium,5,2
+REQ-00294,2026-02-07,2026-02-12,Suba,  Park Maintenance ,Social Media,Closed,Medium,5,5
+REQ-00831,08-15-2025,08-15-2025,Bosa,water leak,Social Media,Closed,HIGH,0,1
+REQ-00456,07-24-2025,2025-08-01,Usme,Streetlight,Web,closed,Medium,8,1
+REQ-00028,2025-02-07,02-16-2025,Fontibon,Noise Complaint,web,cancelled,Medium,9,3
+REQ-00395,03-13-2025,2025-03-16,Teusaquillo,Water Leak,Phone,In Progress,Medium,3,1
+REQ-00358,2025-12-19,,Santa Fe,  Water Leak ,Phone,In Progress,  Medium ,19,
+REQ-00772,22/03/2025,2025-04-02,Kennedy,Sidewalk Repair,Phone,In Progress,  Critical ,11,
+REQ-00069,2025-05-03,05/05/2025,SUMAPAZ,Streetlight,In Person,Closed,  Medium ,2,3
+REQ-00856,28/04/2026,05-05-2026,Sumapaz,STREETLIGHT,PHONE,  Closed ,medium,7,1
+REQ-00768,21/12/2025,04/01/2026,Teusaquillo,,  Social Media ,Closed,Medium,14,3
+REQ-00744,2025-01-28,2025-01-31,  Bosa ,Water Leak,Phone,Closed,Low,3,
+REQ-00611,02-14-2026,02-18-2026,Sumapaz,Noise Complaint,WEB,Closed,Medium,4,4
+REQ-00462,2025-06-13,13/06/2025,MARTIRES,Pothole,,Closed,Low,0,2
+REQ-00820,04-22-2025,30/04/2025,Puente Aranda,streetlight,social media,Closed,Critical,8,2
+REQ-00216,07-30-2025,31/07/2025,Usaquen,Pothole,web,Closed,Medium,1,2
+REQ-00377,2026-06-03,,San Cristobal,Streetlight,WEB,Closed,Critical,0,5
+REQ-00467,2025-02-16,,ENGATIVA,Streetlight,Web,Open,MEDIUM,0,
+REQ-00567,11-04-2025,2025-11-04,SUBA,Graffiti,Phone,Closed,Critical,0,4
+REQ-00288,26/06/2025,07-14-2025,antonio narino,  Noise Complaint ,Mobile App,Closed,High,18,4
+REQ-00741,22/03/2025,24/03/2025,Barrios Unidos,Streetlight,Social Media,Closed,  Medium ,2,1
+REQ-00973,09-11-2025,2025-09-19,san cristobal,Park Maintenance,Mobile App,Cancelled,LOW,8,1
+REQ-00245,16/05/2025,18/05/2025,  Ciudad Bolivar ,Sidewalk Repair,Social Media,Cancelled,High,2,1
+REQ-00986,2025-04-20,,Chapinero,park maintenance,IN PERSON,open,low,9,
+REQ-00031,2025-07-03,05/07/2025,Santa Fe,Pothole,Mobile App,Closed,Low,2,5
+REQ-00852,08-24-2025,08-25-2025,  Usaquen ,Waste Collection,Web,CLOSED,Medium,1,4
+REQ-00408,07/01/2026,2026-01-08,USME,Park Maintenance,Mobile App,  Closed ,Low,1,4
+REQ-00538,2026-03-11,12/03/2026,Barrios Unidos,,Mobile App,  Closed ,Critical,1,5
+REQ-00555,2026-01-11,14/01/2026,FONTIBON,Sidewalk Repair,In Person,Closed,CRITICAL,3,5
+REQ-00654,2026-01-27,01-30-2026,Chapinero,WASTE COLLECTION,social media,Closed,Critical,3,
+REQ-00062,04-03-2026,09/04/2026,CIUDAD BOLIVAR,  Sidewalk Repair ,web,Closed,Medium,6,5
+REQ-00558,2026-06-19,,San Cristobal,Waste Collection,  Web ,In Progress,Medium,8,
+REQ-00793,11-19-2025,2025-11-28,Candelaria,Water Leak,MOBILE APP,Closed,Critical,9,1
+REQ-00115,2026-03-03,2026-03-06,  San Cristobal ,,Social Media,  Closed ,HIGH,3,5
+REQ-00749,2025-12-20,25/12/2025,usaquen,Water Leak,MOBILE APP,cancelled,Medium,5,4
+REQ-00746,03-23-2026,,Teusaquillo,Noise Complaint,Mobile App,Open,Critical,11,
+REQ-00175,03-19-2026,28/03/2026,USME,  Streetlight ,  Mobile App ,Closed,Medium,9,2
+REQ-00266,05/06/2025,06-08-2025,Teusaquillo,Park Maintenance,Social Media,Closed,MEDIUM,3,5
+REQ-00651,05-04-2026,2026-05-06,Santa Fe,Waste Collection,  Mobile App ,  Closed ,Medium,2,4
+REQ-00742,05-27-2025,29/05/2025,Kennedy,Park Maintenance,Web,  Closed ,critical,2,3
+REQ-00323,2026-03-11,2026-03-11,Kennedy,  Pothole ,Web,CANCELLED,High,0,5
+REQ-00877,14/12/2025,,Chapinero,Streetlight,Phone,In Progress,Medium,2,5
+REQ-00106,06-04-2025,2025-06-04,Santa Fe,STREETLIGHT,Phone,closed,Medium,0,1
+REQ-00317,2025-11-04,2025-11-07,CHAPINERO,Sidewalk Repair,Social Media,  Closed ,High,,3
+REQ-00421,06/03/2025,06/03/2025,ANTONIO NARINO,Graffiti,mobile app,Closed,  Critical ,0,4
+REQ-00614,2025-08-02,08-03-2025,Puente Aranda,WASTE COLLECTION,Web,Cancelled,Low,1,2
+REQ-00942,05-07-2026,,Usaquen,  Sidewalk Repair ,Web,in progress,Low,0,
+REQ-00484,01-24-2026,2026-01-27,Barrios Unidos,Sidewalk Repair,  Social Media ,CLOSED,Medium,3,5
+REQ-00551,16/04/2026,,KENNEDY,Noise Complaint,Social Media,In Progress,Medium,2,1
+REQ-00339,2026-02-04,,Usme,Noise Complaint,web,In Progress,Low,4,
+REQ-00690,09-02-2025,2025-09-05,Teusaquillo,pothole,Social Media,Closed,High,3,1
+REQ-00348,21/02/2025,03-19-2025,Kennedy,Streetlight,MOBILE APP,Closed,Medium,26,1
+REQ-00160,10/01/2025,2025-01-15,Martires,Pothole,Web,Closed,High,5,4
+REQ-00799,10/10/2025,2025-10-14,Antonio Narino,Graffiti,Phone,In Progress,Low,4,
+REQ-00342,2025-04-25,2025-04-26,Sumapaz,Water Leak,Phone,In Progress,Low,1,
+REQ-00071,04-13-2026,,Usme,Graffiti,Mobile App,Open,  Medium ,1,
+REQ-00196,2025-05-27,,Bosa,STREETLIGHT,Social Media,Cancelled,  Low ,3,1
+REQ-00496,2025-12-14,2026-01-01,Barrios Unidos,Sidewalk Repair,Mobile App,Cancelled,Medium,18,2
+REQ-00061,2026-04-30,07/05/2026,Santa Fe,Park Maintenance,  Social Media ,Closed,high,7,2
+REQ-00697,2025-09-10,,chapinero,Streetlight,Mobile App,Cancelled,critical,1,3
+REQ-00081,2025-06-04,09/06/2025,Candelaria,POTHOLE,Mobile App,Closed,Critical,5,5
+REQ-00501,17/01/2025,,Rafael Uribe,Graffiti,Social Media,In Progress,High,4,
+REQ-00299,02-04-2025,04/02/2025,antonio narino,Graffiti,Phone,Closed,  Low ,0,1
+REQ-00764,01/02/2025,02/02/2025,Candelaria,Noise Complaint,  Mobile App ,CLOSED,medium,1,3
+REQ-00706,09/05/2026,17/05/2026,  Bosa ,Noise Complaint,IN PERSON,CANCELLED,Low,8,2
+REQ-00068,07/05/2025,13/06/2025,Bosa,Park Maintenance,,Cancelled,CRITICAL,37,1
+REQ-00017,11-25-2025,2025-11-26,Martires,Graffiti,SOCIAL MEDIA,Closed,High,1,3
+REQ-00713,14/08/2025,18/08/2025,  Rafael Uribe ,Graffiti,In Person,Closed,Medium,4,3
+REQ-00333,05/01/2026,,Teusaquillo,waste collection,Social Media,Open,low,,5
+REQ-00404,21/11/2025,2025-11-30,Antonio Narino,Graffiti,Phone,Closed,High,9,4
+REQ-00027,01-26-2026,2026-01-29,candelaria,Sidewalk Repair,Web,Closed,Low,3,
+REQ-00716,2025-07-17,,,Pothole,  Phone ,OPEN,Medium,8,3
+REQ-00504,05-12-2025,2025-05-13,Suba,Water Leak,Phone,Closed,Critical,1,2
+REQ-00485,31/05/2026,,  Chapinero ,GRAFFITI,WEB,OPEN,  Medium ,7,3
+REQ-00527,2026-05-05,2026-05-21,Suba,Graffiti,MOBILE APP,Closed,Critical,16,5
+REQ-00096,2025-08-03,13/08/2025,  Candelaria ,  Waste Collection ,SOCIAL MEDIA,Closed,Medium,10,2
+REQ-00606,08/04/2025,,  Rafael Uribe ,Graffiti,Phone,Open,Critical,2,
+REQ-00866,2025-05-17,2025-05-19,  Fontibon ,Streetlight,Social Media,Cancelled,Medium,2,5
+REQ-00979,08/05/2026,09/05/2026,Antonio Narino,water leak,In Person,Closed,Low,1,4
+REQ-00110,03/06/2026,06-03-2026,  Fontibon ,Pothole,Web,Closed,High,0,2
+REQ-00479,06-26-2026,06-28-2026,  Chapinero ,Water Leak,Web,Closed,  Medium ,2,5
+REQ-00692,12-02-2025,12-11-2025,Candelaria,Sidewalk Repair,  Phone ,  Closed ,LOW,9,4
+REQ-00944,01-12-2025,2025-01-17,Kennedy,Park Maintenance,Social Media,Closed,MEDIUM,5,3
+REQ-00226,2026-05-14,2026-05-22,Antonio Narino,Pothole,Mobile App,Cancelled,Low,8,3
+REQ-00660,2026-03-05,2026-03-12,san cristobal,Noise Complaint,Phone,In Progress,Medium,7,5
+REQ-00426,29/12/2025,03/01/2026,Usme,Noise Complaint,Mobile App,closed,medium,5,1
+REQ-00459,2025-08-15,24/08/2025,USAQUEN,Streetlight,social media,Closed,Medium,9,2
+REQ-00953,2025-07-26,2025-07-31,Suba,pothole,Social Media,  Closed ,Medium,5,4
+REQ-00051,26/06/2025,,Fontibon,Water Leak,In Person,In Progress,  Medium ,17,
+REQ-00284,10/10/2025,2025-11-02,Sumapaz,,Social Media,Cancelled,Medium,23,3
+REQ-00088,2025-09-17,2025-09-17,Sumapaz,SIDEWALK REPAIR,Web,Closed,Critical,,3
+REQ-00609,2025-03-27,29/03/2025,suba,PARK MAINTENANCE,Web,CANCELLED,Low,2,2
+REQ-00508,2025-09-17,,Tunjuelito,Water Leak,Phone,In Progress,Medium,5,3
+REQ-00881,2025-05-26,,MARTIRES,Noise Complaint,Phone,In Progress,Medium,8,
+REQ-00513,2025-10-04,10-15-2025,Sumapaz,WATER LEAK,Phone,Closed,Medium,11,1
+REQ-00607,14/05/2026,,  Teusaquillo ,Noise Complaint,In Person,In Progress,low,,
+REQ-00492,2026-04-19,2026-04-19,Fontibon,  Park Maintenance ,WEB,Closed,Medium,0,2
+REQ-00926,28/06/2025,06/07/2025,Sumapaz,  Water Leak ,  Social Media ,CANCELLED,Low,,4
+REQ-00638,2025-01-17,2025-01-20,Chapinero,POTHOLE,Mobile App,Cancelled,Low,3,4
+REQ-00988,2025-12-09,2025-12-10,Kennedy,,WEB,Cancelled,Critical,1,3
+REQ-00366,16/05/2025,25/05/2025,Ciudad Bolivar,Streetlight,  Mobile App ,In Progress,  Medium ,9,
+REQ-00045,01/10/2025,,san cristobal,graffiti,  Web ,  In Progress ,Critical,1,
+REQ-00093,06-27-2025,02/07/2025,Santa Fe,Park Maintenance,,Closed,LOW,5,1
+REQ-00655,24/04/2025,04-30-2025,Martires,Water Leak,In Person,Closed,Critical,6,4
+REQ-00277,2026-06-11,,  Bosa ,Pothole,In Person,  Open ,Low,0,
+REQ-00466,2026-02-11,2026-02-16,  Suba ,  Waste Collection ,Phone,Closed,Medium,5,1
+REQ-00401,29/11/2025,12-13-2025,Candelaria,,In Person,in progress,High,14,
+REQ-00212,2026-02-05,08/02/2026,puente aranda,  Streetlight ,Mobile App,CLOSED,medium,3,5
+REQ-00316,24/01/2025,27/01/2025,Antonio Narino,,  In Person ,Closed,  Medium ,3,
+REQ-00617,06-09-2026,2026-06-13,Rafael Uribe,  Graffiti ,PHONE,  Closed ,Critical,4,5
+REQ-00306,2026-05-30,02/06/2026,Barrios Unidos,Pothole,Phone,In Progress,Medium,3,
+REQ-00650,10/01/2025,13/01/2025,Kennedy,Park Maintenance,Mobile App,Closed,CRITICAL,3,
+REQ-00326,2025-07-07,07-08-2025,SAN CRISTOBAL,Graffiti,in person,Closed,Medium,1,4
+REQ-00368,2025-06-30,,USAQUEN,Pothole,Phone,Closed,LOW,13,1
+REQ-00754,13/11/2025,11-19-2025,Chapinero,Graffiti,Mobile App,Closed,Medium,6,4
+REQ-00605,2025-05-12,2025-05-21,Fontibon,Park Maintenance,Mobile App,Closed,CRITICAL,9,1
+REQ-00703,26/05/2026,2026-05-28,Engativa,Graffiti,IN PERSON,closed,Low,2,5
+REQ-00579,02-09-2026,2026-02-10,Candelaria,Streetlight,WEB,CANCELLED,  Critical ,1,5
+REQ-00823,2025-04-13,04-18-2025,San Cristobal,Sidewalk Repair,Web,Cancelled,Medium,5,2
+REQ-00159,2025-07-21,2025-07-21,San Cristobal,  Streetlight ,Phone,  Closed ,Low,0,4
+REQ-00930,2025-04-08,2025-04-11,Kennedy,Noise Complaint,Phone,  Closed ,Medium,3,2
+REQ-00521,2026-05-06,08/05/2026,Fontibon,Waste Collection,In Person,Closed,Medium,,4
+REQ-00477,2025-09-21,09-21-2025,TEUSAQUILLO,WASTE COLLECTION,Mobile App,Closed,High,0,5
+REQ-00259,05-25-2025,,  Usme ,Noise Complaint,SOCIAL MEDIA,open,LOW,12,5
+REQ-00143,24/02/2025,2025-04-03,Teusaquillo,Park Maintenance,  Phone ,Closed,Low,38,4
+REQ-00580,2025-04-16,2025-04-17,CANDELARIA,Graffiti,  In Person ,In Progress,High,1,
+REQ-00431,2026-01-10,,,Waste Collection,  Social Media ,Closed,Critical,8,5
+REQ-00976,2026-04-26,29/04/2026,Suba,Streetlight,Mobile App,Closed,Low,3,2
+REQ-00896,05-24-2025,2025-05-25,Tunjuelito,Pothole,MOBILE APP,Closed,Medium,1,2
+REQ-00919,2025-05-04,2025-05-15,SUMAPAZ,Sidewalk Repair,Social Media,CLOSED,High,11,
+REQ-00999,03-11-2026,18/03/2026,  Engativa ,Water Leak,social media,  Closed ,HIGH,7,5
+REQ-00715,02/01/2026,,  Fontibon ,GRAFFITI,In Person,Open,Low,34,
+REQ-00468,01/06/2026,,Martires,Park Maintenance,In Person,Open,Medium,0,
+REQ-00161,16/07/2025,07-16-2025,Fontibon,  Noise Complaint ,  Phone ,Closed,Medium,0,1
+REQ-00781,03-08-2026,17/03/2026,Teusaquillo,Pothole,In Person,Closed,Low,9,5
+REQ-00765,18/09/2025,22/09/2025,teusaquillo,Streetlight,Mobile App,Closed,medium,4,3
+REQ-00815,2026-01-17,,Kennedy,NOISE COMPLAINT,MOBILE APP,In Progress,,1,
+REQ-00275,2025-03-20,2025-03-23,Tunjuelito,Sidewalk Repair,Social Media,Closed,High,3,
+REQ-00415,24/06/2026,26/06/2026,,NOISE COMPLAINT,  In Person ,Closed,Medium,2,2
+REQ-00710,2025-10-28,,Usme,GRAFFITI,Web,  Open ,  Low ,4,
+REQ-00142,2025-01-13,,Santa Fe,Pothole,In Person,Open,CRITICAL,1,
+REQ-00667,01-21-2026,,Sumapaz,Streetlight,  Social Media ,In Progress,Medium,0,
+REQ-00646,01/03/2025,03-01-2025,Rafael Uribe,Park Maintenance,In Person,Closed,  Critical ,0,2
+REQ-00180,24/01/2026,2026-01-26,  Antonio Narino ,Noise Complaint,Social Media,  Cancelled ,CRITICAL,2,4
+REQ-00539,2025-05-11,2025-05-12,,Water Leak,Mobile App,CLOSED,Low,1,1
+REQ-00288,26/06/2025,07-14-2025,antonio narino,  Noise Complaint ,Mobile App,Closed,High,18,4
+REQ-00519,17/12/2025,,San Cristobal,GRAFFITI,Phone,In Progress,Medium,22,
+REQ-00253,05-25-2026,26/05/2026,Bosa,SIDEWALK REPAIR,In Person,CLOSED,High,1,5
+REQ-00982,2025-01-24,,Santa Fe,Park Maintenance,Social Media,closed,Low,2,4
+REQ-00402,2025-07-20,,  Barrios Unidos ,Water Leak,In Person,In Progress,Medium,4,
+REQ-00403,2026-05-04,2026-05-12,Chapinero,Streetlight,  Phone ,  Closed ,medium,8,5
+REQ-00123,2026-02-06,2026-02-08,Candelaria,POTHOLE,In Person,closed,Medium,2,2
+REQ-00065,08-07-2025,2025-09-15,Fontibon,NOISE COMPLAINT,Web,Closed,Critical,,3
+REQ-00698,2025-07-16,25/07/2025,Engativa,Graffiti,Phone,  Closed ,Low,9,2
+REQ-00810,2026-02-06,14/02/2026,  Usaquen ,PARK MAINTENANCE,Social Media,closed,Low,8,1
+REQ-00882,04/12/2025,2025-12-05,Engativa,PARK MAINTENANCE,Web,closed,Medium,1,5
+REQ-00666,2025-03-08,2025-03-11,Engativa,SIDEWALK REPAIR,Phone,Closed,  Critical ,,3
+REQ-00086,05/03/2026,2026-03-14,martires,WASTE COLLECTION,MOBILE APP,Closed,Medium,9,
+REQ-00104,2025-09-05,2025-09-05,FONTIBON,POTHOLE,Mobile App,Cancelled,Medium,0,1
+REQ-00482,15/03/2025,03-19-2025,,NOISE COMPLAINT,Mobile App,Closed,Medium,4,4
+REQ-00566,2025-04-15,2025-04-15,Suba,Streetlight,Mobile App,Cancelled,Low,0,4
+REQ-00859,2025-10-31,,Puente Aranda,Waste Collection,Web,Closed,Medium,7,3
+REQ-00554,2025-01-15,,Candelaria,  Waste Collection ,  Mobile App ,Open,  Low ,1,
+REQ-00618,2025-04-14,,Teusaquillo,POTHOLE,Web,  Open ,Medium,0,
+REQ-00620,2025-05-10,2025-05-17,Martires,Streetlight,PHONE,Closed,Medium,7,2
+REQ-00909,07-12-2025,,rafael uribe,Sidewalk Repair,In Person,Open,Medium,15,
+REQ-00269,06-03-2025,,SUBA,POTHOLE,  Phone ,  Open ,  Low ,8,
+REQ-00948,23/04/2025,2025-04-23,Chapinero,Water Leak,In Person,CLOSED,Critical,0,3
+REQ-00640,21/06/2025,,Usaquen,Water Leak,web,  Open ,MEDIUM,18,
+REQ-00330,05-04-2025,,santa fe,Waste Collection,IN PERSON,  Open ,Critical,11,
+REQ-00960,04/12/2025,,Teusaquillo,streetlight,Social Media,  In Progress ,MEDIUM,12,
+REQ-00543,02-13-2025,,Chapinero,Noise Complaint,WEB,Open,Low,7,
+REQ-00433,2025-09-04,23/09/2025,Antonio Narino,Streetlight,Mobile App,Cancelled,  Medium ,19,3
+REQ-00353,07/07/2025,,ANTONIO NARINO,Pothole,Social Media,Open,Low,9,
+REQ-00549,18/03/2026,,Santa Fe,Pothole,IN PERSON,In Progress,Medium,,
+REQ-00511,2026-03-15,03-18-2026,Usaquen,  Noise Complaint ,Social Media,Closed,  Medium ,3,5
+REQ-00664,2025-11-28,29/11/2025,Engativa,pothole,Social Media,Closed,Medium,1,5
+REQ-00904,21/01/2025,2025-01-31,Rafael Uribe,PARK MAINTENANCE,In Person,Closed,LOW,10,3
+REQ-00003,2025-12-01,2025-12-08,RAFAEL URIBE,  Graffiti ,Mobile App,cancelled,  Critical ,7,1
+REQ-00279,2026-05-26,28/05/2026,Candelaria,Waste Collection,WEB,Closed,High,2,4
+REQ-00627,14/02/2025,16/02/2025,Suba,Streetlight,Web,Closed,Critical,,2
+REQ-00235,10-04-2025,,Usaquen,Water Leak,Phone,Cancelled,Medium,3,5
+REQ-00565,02-24-2025,2025-02-24,chapinero,Noise Complaint,Mobile App,  Closed ,MEDIUM,0,3
+REQ-00046,05-13-2026,15/05/2026,  Chapinero ,  Graffiti ,Social Media,closed,Critical,2,5
+REQ-00352,21/02/2025,,Tunjuelito,Water Leak,WEB,OPEN,HIGH,5,
+REQ-00499,2026-05-17,2026-05-18,Ciudad Bolivar,Park Maintenance,SOCIAL MEDIA,Closed,  Medium ,1,2
+REQ-00851,2025-01-03,,Martires,Streetlight,In Person,Closed,High,,3
+REQ-00907,05-04-2025,2025-05-10,Fontibon,Sidewalk Repair,MOBILE APP,Closed,Critical,6,2
+REQ-00173,31/05/2026,02/06/2026,  Martires ,Graffiti,,in progress,Medium,2,
+REQ-00435,2025-07-22,,suba,Sidewalk Repair,Web,open,High,14,
+REQ-00906,2025-05-31,06-10-2025,Puente Aranda,noise complaint,  Social Media ,Closed,Medium,10,3
+REQ-00434,20/09/2025,22/09/2025,puente aranda,Noise Complaint,Social Media,Closed,Low,2,1
+REQ-00285,2026-01-08,2026-01-08,Antonio Narino,NOISE COMPLAINT,mobile app,Closed,  Medium ,0,5
+REQ-00645,2025-06-27,2025-07-01,Suba,Noise Complaint,In Person,Closed,Medium,4,3
+REQ-00437,2025-09-13,2025-09-16,Bosa,Streetlight,phone,In Progress,Medium,3,
+REQ-00265,05-26-2026,05-27-2026,USME,Park Maintenance,  Mobile App ,Closed,Low,1,2
+REQ-00463,2025-06-26,,Puente Aranda,Waste Collection,  Social Media ,In Progress,Medium,,
+REQ-00693,2026-03-22,2026-03-24,Ciudad Bolivar,Waste Collection,In Person,Closed,Medium,2,
+REQ-00316,24/01/2025,27/01/2025,Antonio Narino,,  In Person ,Closed,  Medium ,3,
+REQ-00624,27/06/2026,2026-06-30,Sumapaz,Graffiti,PHONE,closed,High,3,
+REQ-00262,04/02/2025,07/02/2025,Candelaria,Graffiti,In Person,Cancelled,Critical,3,5
+REQ-00169,11-18-2025,11-23-2025,BARRIOS UNIDOS,POTHOLE,WEB,closed,Low,5,
+REQ-00494,2025-09-23,24/09/2025,Candelaria,  Park Maintenance ,Phone,Cancelled,Medium,1,2
+REQ-00997,2025-09-03,09-04-2025,rafael uribe,graffiti,SOCIAL MEDIA,Cancelled,Medium,1,5
+REQ-00146,2025-06-26,26/06/2025,  Martires ,Water Leak,Mobile App,Closed,Critical,0,2
+REQ-00661,06-24-2025,,Engativa,Graffiti,Mobile App,Open,Medium,1,
+REQ-00816,2026-06-11,2026-06-11,  Engativa ,  Waste Collection ,Phone,Closed,HIGH,0,
+REQ-00302,2026-06-28,,Chapinero,  Streetlight ,Web,Closed,Medium,0,4
+REQ-00586,26/06/2025,2025-06-26,santa fe,Park Maintenance,Phone,CLOSED,Critical,0,1
+REQ-00913,01-28-2026,02-01-2026,  Santa Fe ,Graffiti,Social Media,Closed,Medium,4,
+REQ-00230,22/07/2025,,Suba,Streetlight,  Phone ,open,Low,0,
+REQ-00470,2025-06-04,2025-06-11,Santa Fe,  Water Leak ,Mobile App,Closed,  Medium ,7,3
+REQ-00438,15/06/2026,,RAFAEL URIBE,  Sidewalk Repair ,  Web ,  Closed ,High,9,2
+REQ-00583,2025-07-14,2025-07-19,Ciudad Bolivar,Waste Collection,Social Media,Closed,Critical,5,1
+REQ-00564,2026-06-30,09/07/2026,SAN CRISTOBAL,Park Maintenance,Web,Closed,Medium,9,5
+REQ-00737,2026-01-25,26/01/2026,martires,WASTE COLLECTION,IN PERSON,  Closed ,Medium,1,5
+REQ-00149,2025-07-18,2025-07-31,  Puente Aranda ,Graffiti,Mobile App,CLOSED,Critical,13,
+REQ-00066,2025-03-28,02/04/2025,Engativa,Waste Collection,web,Closed,High,5,2
+REQ-00201,01-24-2025,24/01/2025,Rafael Uribe,Waste Collection,  Social Media ,Closed,Low,0,1
+REQ-00243,07/05/2026,,Chapinero,Streetlight,Web,  Open ,Low,9,
+REQ-00448,2025-10-27,,TEUSAQUILLO,Sidewalk Repair,SOCIAL MEDIA,Open,Medium,1,
+REQ-00613,2026-01-09,12/01/2026,USME,Pothole,Mobile App,Closed,critical,3,3
+REQ-00376,11/08/2025,2025-08-17,san cristobal,Streetlight,Phone,closed,  Critical ,6,2
+REQ-00726,11-03-2025,09/11/2025,San Cristobal,Noise Complaint,  In Person ,Closed,Low,6,4
+REQ-00064,04-30-2025,,Antonio Narino,Graffiti,SOCIAL MEDIA,Open,Critical,2,3
+REQ-00643,09/03/2026,2026-03-11,San Cristobal,Waste Collection,Phone,Closed,Critical,2,5
+REQ-00709,2026-06-26,06-27-2026,Ciudad Bolivar,Streetlight,Mobile App,Closed,Critical,1,5
+REQ-00510,2025-03-07,15/03/2025,chapinero,SIDEWALK REPAIR,In Person,  Closed ,High,8,3
+REQ-00995,04-08-2025,,Puente Aranda,  Park Maintenance ,Phone,IN PROGRESS,  Medium ,9,
+REQ-00270,2025-06-25,12/07/2025,ENGATIVA,Noise Complaint,Social Media,closed,HIGH,17,5
+REQ-00817,17/05/2026,,Fontibon,Water Leak,Web,Open,High,2,
+REQ-00637,10-10-2025,,Kennedy,Waste Collection,Mobile App,  Open ,Critical,4,
+REQ-00503,2025-10-19,2025-10-31,Chapinero,GRAFFITI,In Person,Closed,Medium,12,2
+REQ-00980,2026-01-01,05/01/2026,tunjuelito,Pothole,In Person,Closed,critical,4,2
+REQ-00785,2026-01-27,2026-02-16,Candelaria,Streetlight,In Person,In Progress,Low,20,
+REQ-00215,02-07-2026,2026-03-09,sumapaz,Water Leak,in person,Cancelled,  Low ,30,2
+REQ-00814,02/04/2025,04-07-2025,San Cristobal,Sidewalk Repair,  Phone ,Closed,Medium,5,1
+REQ-00159,2025-07-21,2025-07-21,San Cristobal,  Streetlight ,Phone,  Closed ,Low,0,4
+REQ-00054,11/02/2025,27/02/2025,,Graffiti,PHONE,Cancelled,Low,16,4
+REQ-00711,2025-12-21,12-27-2025,Sumapaz,Graffiti,web,  Closed ,Critical,6,1
+REQ-00444,12-29-2025,2025-12-31,Santa Fe,Waste Collection,PHONE,Cancelled,critical,2,5
+REQ-00540,2026-01-16,,San Cristobal,Sidewalk Repair,Social Media,Closed,  Low ,0,1
+REQ-00070,2025-06-21,2025-06-25,Engativa,Noise Complaint,,Closed,MEDIUM,4,5
+REQ-00801,2025-06-27,30/06/2025,  Usme ,Waste Collection,In Person,CANCELLED,Low,3,2
+REQ-00478,05-25-2026,2026-05-27,Barrios Unidos,Sidewalk Repair,Social Media,closed,Low,2,3
+REQ-00221,2025-05-10,2025-05-15,San Cristobal,NOISE COMPLAINT,PHONE,CLOSED,High,5,2
+REQ-00007,17/01/2026,2026-01-19,san cristobal,graffiti,  Mobile App ,Closed,Low,2,3
+REQ-00719,14/06/2026,17/06/2026,Teusaquillo,waste collection,PHONE,Closed,Medium,3,4
+REQ-00328,2026-04-15,23/04/2026,Sumapaz,Waste Collection,MOBILE APP,Cancelled,Medium,8,4
+REQ-00105,2025-01-21,26/01/2025,  San Cristobal ,Pothole,Social Media,CLOSED,  Critical ,5,1
+REQ-00112,2025-04-16,16/04/2025,Antonio Narino,Graffiti,Web,Closed,Medium,0,5
+REQ-00763,05-30-2025,2025-06-07,Martires,Sidewalk Repair,WEB,Closed,Low,8,1
+REQ-00865,2025-10-08,,Santa Fe,Waste Collection,Phone,OPEN,Critical,1,
+REQ-00360,03/02/2026,02-05-2026,Tunjuelito,Streetlight,Phone,Closed,Critical,2,4
+REQ-00385,2026-01-03,2026-01-08,Fontibon,Graffiti,Mobile App,In Progress,Medium,5,
+REQ-00297,02-02-2025,03/02/2025,Teusaquillo,Park Maintenance,Phone,CLOSED,medium,1,4
+REQ-00884,2025-06-03,04/06/2025,Candelaria,Park Maintenance,in person,CLOSED,Critical,1,1
+REQ-00767,2025-11-12,2025-11-15,Usaquen,  Pothole ,Mobile App,Closed,Medium,3,3
+REQ-00838,08/01/2025,08/01/2025,KENNEDY,  Noise Complaint ,Mobile App,Closed,Medium,0,1
+REQ-00858,2025-04-21,04-27-2025,San Cristobal,Graffiti,In Person,  Closed ,critical,6,4
+REQ-00897,2025-02-02,2025-02-07,ENGATIVA,Park Maintenance,Social Media,Closed,High,5,2
+REQ-00210,2025-07-08,2025-07-08,Suba,NOISE COMPLAINT,Web,Cancelled,Low,0,5
+REQ-00067,06/06/2025,2025-06-28,Fontibon,Noise Complaint,Mobile App,Closed,Medium,-2,1
+REQ-00686,03-15-2026,2026-03-27,Usme,  Sidewalk Repair ,Phone,Closed,Critical,12,5
+REQ-00043,08/10/2025,30/02/2025,ANTONIO NARINO,Sidewalk Repair,In Person,Closed,LOW,17,4
+REQ-00289,18/05/2026,,Sumapaz,Sidewalk Repair,Web,Open,High,1,
+REQ-00025,2026-04-09,,Ciudad Bolivar,noise complaint,  Phone ,Open,High,0,
+REQ-00011,2025-04-05,,Fontibon,PARK MAINTENANCE,in person,Open,MEDIUM,8,3
+REQ-00696,26/03/2026,27/03/2026,Martires,PARK MAINTENANCE,Social Media,  Closed ,Low,,5
+REQ-00978,2025-03-31,,  Tunjuelito ,Park Maintenance,  Social Media ,In Progress,Medium,0,
+REQ-00305,10/10/2025,2025-10-10,Suba,Waste Collection,IN PERSON,Cancelled,LOW,0,2
+REQ-00700,2025-12-09,,Antonio Narino,Park Maintenance,Phone,Open,High,1,
+REQ-00251,2026-02-07,2026-02-12,Chapinero,Graffiti,Web,Closed,  High ,5,2
+REQ-00800,03/09/2025,05/09/2025,BOSA,Water Leak,Mobile App,CLOSED,High,2,
+REQ-00144,2025-03-12,,Santa Fe,  Streetlight ,In Person,In Progress,Critical,5,
+REQ-00593,02-12-2026,,tunjuelito,Park Maintenance,Social Media,In Progress,Medium,8,
+REQ-00035,24/12/2025,,Suba,Waste Collection,Phone,In Progress,Low,18,
+REQ-00107,04-02-2025,04/04/2025,Usaquen,NOISE COMPLAINT,In Person,Cancelled,Low,2,4
+REQ-00204,2025-12-14,,Engativa,Waste Collection,In Person,closed,LOW,1,3
+REQ-00934,2025-12-08,12-13-2025,CANDELARIA,Graffiti,In Person,Closed,MEDIUM,5,3
+REQ-00447,2025-10-14,,Engativa,Pothole,Phone,Open,  High ,0,
+REQ-00274,19/01/2025,2025-01-22,  Usme ,Park Maintenance,  Web ,CLOSED,High,3,
+REQ-00356,2025-10-18,2025-10-31,Suba,,Social Media,Closed,High,13,5
+REQ-00310,06-15-2026,06-17-2026,Engativa,Waste Collection,Mobile App,Closed,Critical,2,2
+REQ-00880,04/01/2026,01-07-2026,san cristobal,Noise Complaint,Social Media,Closed,  Medium ,3,4
+REQ-00546,2026-01-29,,  Chapinero ,Graffiti,Social Media,In Progress,MEDIUM,4,3
+REQ-00932,2025-04-30,30/04/2025,Bosa,Park Maintenance,WEB,Closed,Medium,0,4
+REQ-00219,09/01/2025,01-26-2025,engativa,  Pothole ,In Person,in progress,Medium,17,
+REQ-00397,07-27-2025,14/08/2025,Martires,  Waste Collection ,Web,Closed,Medium,,4
+REQ-00361,2025-01-01,,Engativa,Streetlight,WEB,Open,LOW,5,1
+REQ-00590,23/07/2025,2025-08-01,Sumapaz,NOISE COMPLAINT,  Social Media ,Cancelled,critical,9,4
+REQ-00145,10-26-2025,,  Usaquen ,Graffiti,web,Open,Medium,1,
+REQ-00608,17/02/2025,06/03/2025,rafael uribe,Sidewalk Repair,Mobile App,Closed,LOW,17,3
+REQ-00378,2025-03-08,03-13-2025,FONTIBON,Sidewalk Repair,Web,CLOSED,Critical,5,3
+REQ-00553,2026-01-21,31/01/2026,USME,Park Maintenance,  In Person ,Closed,medium,10,4
+REQ-00197,2025-11-11,,usme,Sidewalk Repair,phone,  Open ,Medium,4,
+REQ-00040,05-29-2025,2025-06-02,Suba,,Phone,CLOSED,Medium,4,
+REQ-00773,2025-05-21,2025-06-02,rafael uribe,Noise Complaint,Mobile App,Cancelled,High,12,5
+REQ-00381,2026-05-20,2026-05-23,Rafael Uribe,Graffiti,SOCIAL MEDIA,In Progress,Critical,3,
+REQ-00309,2025-10-14,2025-10-18,  Ciudad Bolivar ,Streetlight,Mobile App,In Progress,Low,4,2
+REQ-00009,2025-04-22,,Ciudad Bolivar,Sidewalk Repair,In Person,In Progress,Critical,-5,
+REQ-00678,2025-08-07,2025-08-11,USME,  Streetlight ,social media,Closed,Medium,4,2
+REQ-00228,2025-11-30,,Santa Fe,Graffiti,Web,Open,Low,8,
+REQ-00341,09-09-2025,09-11-2025,  Ciudad Bolivar ,NOISE COMPLAINT,Mobile App,closed,Medium,2,1
+REQ-00227,2025-11-30,12-06-2025,Martires,WASTE COLLECTION,Phone,Closed,Medium,,2
+REQ-00443,09-09-2025,2025-09-18,Barrios Unidos,Pothole,  Web ,Closed,Low,9,5
+REQ-00411,2025-07-31,08-07-2025,  Suba ,Streetlight,Phone,closed,Critical,7,4
+REQ-00320,2026-02-28,,antonio narino,Streetlight,Social Media,  In Progress ,  Medium ,7,
+REQ-00940,2025-07-19,,Martires,  Graffiti ,in person,In Progress,Critical,6,
+REQ-00158,03-01-2026,,Rafael Uribe,Noise Complaint,Mobile App,  Open ,Medium,14,
+REQ-00139,2026-01-12,2026-02-03,Bosa,Park Maintenance,SOCIAL MEDIA,Closed,Medium,22,1
+REQ-00962,02/06/2026,06-05-2026,BARRIOS UNIDOS,Noise Complaint,  Phone ,cancelled,Low,3,4
+REQ-00440,10-18-2025,19/10/2025,Martires,Noise Complaint,WEB,Closed,Critical,1,5
+REQ-00167,16/05/2025,17/05/2025,  Suba ,water leak,Mobile App,closed,Medium,1,3
+REQ-00137,2025-08-25,2025-08-25,Chapinero,Park Maintenance,In Person,Closed,Medium,0,1
+REQ-00945,05-20-2025,2025-06-08,sumapaz,streetlight,  In Person ,Cancelled,High,19,5
+REQ-00018,2025-13-01,2026-05-17,  Usme ,streetlight,Mobile App,Closed,Critical,1,2
+REQ-00486,02/03/2026,,Usaquen,,SOCIAL MEDIA,IN PROGRESS,Medium,2,2
+REQ-00125,05-07-2025,,Puente Aranda,Pothole,Phone,In Progress,MEDIUM,10,
+REQ-00469,2025-02-24,,ENGATIVA,water leak,  In Person ,Open,CRITICAL,,
+REQ-00676,18/04/2026,04-29-2026,  Usaquen ,Water Leak,  Web ,Cancelled,  Medium ,11,2
+REQ-00837,2025-02-21,,Chapinero,Streetlight,WEB,Closed,High,3,3
+REQ-00916,2025-08-02,,Fontibon,Streetlight,Phone,Cancelled,High,7,1
+REQ-00493,22/06/2025,06-22-2025,Kennedy,Sidewalk Repair,Web,Cancelled,critical,0,2
+REQ-00365,17/08/2025,2025-08-17,Suba,  Sidewalk Repair ,Web,Closed,High,0,4
+REQ-00577,02/10/2025,2025-10-05,Chapinero,streetlight,Mobile App,Closed,Low,3,3
+REQ-00556,31/03/2026,,Antonio Narino,Graffiti,WEB,in progress,High,2,2
+REQ-00937,18/10/2025,2025-11-08,San Cristobal,,MOBILE APP,Closed,Medium,21,2
+REQ-00287,2025-07-11,2025-07-15,San Cristobal,Park Maintenance,Web,Closed,MEDIUM,4,3
+REQ-00394,2025-02-07,2025-02-07,Kennedy,Graffiti,Web,Closed,low,0,2
+REQ-00452,2025-12-10,,san cristobal,Pothole,In Person,In Progress,  High ,4,5
+REQ-00286,14/09/2025,,Bosa,Pothole,social media,OPEN,Medium,23,
+REQ-00920,03/04/2025,,Tunjuelito,WATER LEAK,Social Media,Open,High,0,
+REQ-00523,03-27-2025,2025-04-03,Fontibon,Park Maintenance,In Person,Closed,MEDIUM,7,3
+REQ-00190,2026-06-22,2026-06-30,Tunjuelito,noise complaint,Mobile App,  Closed ,Medium,,3
+REQ-00373,2026-06-30,07-07-2026,BARRIOS UNIDOS,Park Maintenance,Social Media,closed,Low,7,1
+REQ-00355,07/11/2025,2025-11-15,Fontibon,WATER LEAK,mobile app,  Closed ,Medium,8,4
+REQ-00704,16/02/2025,02-16-2025,Sumapaz,  Pothole ,Phone,closed,High,0,2
+REQ-00531,22/09/2025,2025-09-26,Kennedy,Noise Complaint,Web,Closed,CRITICAL,4,1
+REQ-00722,16/09/2025,,fontibon,Waste Collection,Web,In Progress,CRITICAL,3,
+REQ-00476,12-16-2025,2025-12-25,Antonio Narino,Noise Complaint,Web,In Progress,MEDIUM,9,
+REQ-00223,2026-05-21,06-06-2026,Candelaria,Streetlight,In Person,closed,Critical,16,2
+REQ-00001,21/05/2026,05-22-2026,santa fe,Park Maintenance,  Phone ,Closed,Medium,1,4
+REQ-00331,07-19-2025,,SANTA FE,Streetlight,  Mobile App ,Open,Critical,7,1
+REQ-00813,20/01/2026,,Sumapaz,Pothole,Mobile App,Open,Low,2,
+REQ-00390,2025-05-23,2025-05-23,Bosa,  Sidewalk Repair ,Phone,Cancelled,Medium,0,5
+REQ-00721,01-20-2025,,Engativa,Streetlight,Mobile App,In Progress,Critical,0,
+REQ-00762,2025-12-02,,Martires,Graffiti,Web,Open,  Medium ,11,
+REQ-00657,2025-07-03,2025-07-09,Fontibon,Graffiti,IN PERSON,cancelled,Medium,6,5
+REQ-00622,2025-08-07,07/08/2025,Martires,waste collection,Web,Cancelled,high,0,3
+REQ-00839,04/05/2025,2025-05-14,MARTIRES,Park Maintenance,  Phone ,Closed,High,10,3
+REQ-00091,25/05/2025,2025-05-25,  Santa Fe ,Waste Collection,Mobile App,Closed,Critical,0,2
+REQ-00015,09-19-2025,25/09/2025,USAQUEN,Graffiti,Mobile App,Cancelled,Critical,6,3
+REQ-00596,2026-05-26,,bosa,water leak,In Person,  Open ,  Medium ,1,
+REQ-00672,04-20-2025,2025-04-21,Martires,Noise Complaint,Web,Closed,High,1,5
+REQ-00400,2025-11-25,,Engativa,  Park Maintenance ,WEB,Closed,,,2
+REQ-00079,06/05/2025,12/05/2025,  Bosa ,Waste Collection,  Social Media ,Closed,Medium,6,
+REQ-00977,2025-05-05,2025-05-05,Teusaquillo,NOISE COMPLAINT,Phone,Closed,  High ,0,5
+REQ-00126,05-22-2025,05-28-2025,Puente Aranda,Park Maintenance,PHONE,Closed,Low,6,4
+REQ-00625,2025-02-09,2025-02-13,Fontibon,Pothole,Social Media,Closed,Critical,4,4
+REQ-00598,2025-11-28,2025-11-29,USME,streetlight,PHONE,  In Progress ,Critical,1,
+REQ-00632,2025-08-28,28/08/2025,Rafael Uribe,GRAFFITI,web,Cancelled,Critical,0,3
+REQ-00010,2025-09-27,07/10/2025,San Cristobal,STREETLIGHT,In Person,Closed,Medium,10,5
+REQ-00195,04-27-2026,2026-04-27,Engativa,Pothole,In Person,Closed,High,0,4
+REQ-00550,13/01/2025,01-16-2025,Candelaria,  Sidewalk Repair ,In Person,Closed,Critical,3,
+REQ-00662,09/11/2025,11-09-2025,,Pothole,Phone,IN PROGRESS,High,0,
+REQ-00041,2026-01-14,16/01/2026,  Antonio Narino ,Water Leak,PHONE,In Progress,High,2,
+REQ-00312,2026-03-28,30/03/2026,Kennedy,Noise Complaint,  Web ,closed,High,2,4
+REQ-00723,25/04/2025,,Kennedy,Sidewalk Repair,Phone,open,HIGH,3,2
+REQ-00119,2025-10-03,04/10/2025,Barrios Unidos,Water Leak,  Phone ,Closed,Medium,,3
+REQ-00892,2026-02-23,24/02/2026,Suba,noise complaint,Phone,Closed,High,1,3
+REQ-00014,2025-08-14,2025-08-27,Martires,  Waste Collection ,MOBILE APP,  Closed ,High,13,3
+REQ-00029,18/05/2026,05-19-2026,Fontibon,Water Leak,Phone,closed,Medium,1,
+REQ-00862,2025-06-24,2025-06-28,  Sumapaz ,streetlight,In Person,Closed,Low,4,2
+REQ-00102,05-02-2026,,Teusaquillo,Pothole,Mobile App,Open,Critical,2,
+REQ-00720,12-06-2025,2025-12-12,fontibon,STREETLIGHT,Mobile App,Closed,high,6,1
+REQ-00981,10/10/2025,2025-10-12,  Barrios Unidos ,WASTE COLLECTION,In Person,closed,medium,2,4
+REQ-00157,2026-01-05,,  Fontibon ,Noise Complaint,In Person,  Open ,Medium,2,
+REQ-00357,01-04-2026,2026-01-15,Sumapaz,SIDEWALK REPAIR,  In Person ,Closed,Medium,11,1
+REQ-00653,2026-06-17,,kennedy,Waste Collection,Phone,In Progress,Medium,6,
+REQ-00795,2026-01-30,,  Ciudad Bolivar ,  Pothole ,Social Media,OPEN,Low,0,
+REQ-00522,09/07/2025,2025-07-09,Candelaria,SIDEWALK REPAIR,  In Person ,Closed,MEDIUM,0,4
+REQ-00082,07-18-2025,2025-07-18,Ciudad Bolivar,,Phone,  Closed ,Medium,0,4
+REQ-00663,23/06/2025,2025-06-28,Barrios Unidos,Streetlight,Phone,  Closed ,Critical,5,5
+REQ-00187,2025-11-03,,Antonio Narino,Graffiti,,Open,Low,17,
+REQ-00972,2025-03-26,2025-03-30,  Usaquen ,Water Leak,Phone,Closed,High,4,4
+REQ-00101,2025-09-05,10/09/2025,candelaria,  Graffiti ,Phone,Closed,Critical,5,1
+REQ-00152,24/05/2025,,san cristobal,noise complaint,Web,Open,MEDIUM,2,
+REQ-00775,03-09-2026,,Chapinero,  Pothole ,In Person,In Progress,High,7,
+REQ-00652,30/03/2026,2026-04-01,Barrios Unidos,WATER LEAK,Social Media,Closed,MEDIUM,2,2
+REQ-00931,19/04/2025,04-20-2025,Tunjuelito,Park Maintenance,Social Media,Cancelled,  Medium ,1,2
+REQ-00743,22/01/2025,25/01/2025,bosa,pothole,Social Media,CLOSED,Medium,3,4
+REQ-00777,2026-06-20,,Rafael Uribe,Noise Complaint,Phone,In Progress,Medium,3,
+REQ-00994,09-20-2025,09-20-2025,Ciudad Bolivar,Water Leak,Phone,  Closed ,Medium,0,2
+REQ-00461,27/12/2025,,Puente Aranda,  Waste Collection ,Phone,Closed,LOW,0,5
+REQ-00735,01-28-2026,02-06-2026,Antonio Narino,GRAFFITI,in person,closed,High,,
+REQ-00854,2025-05-20,2025-05-20,Suba,WATER LEAK,Mobile App,CLOSED,Critical,0,5
+REQ-00890,2026-06-12,2026-06-13,Usme,Streetlight,Social Media,Closed,HIGH,1,4
+REQ-00340,28/10/2025,10-31-2025,Tunjuelito,Pothole,SOCIAL MEDIA,Closed,Low,3,3
+REQ-00026,2025-03-28,,  Chapinero ,  Noise Complaint ,Mobile App,  Open ,  Critical ,0,
+REQ-00963,2025-02-08,02-08-2025,San Cristobal,Water Leak,Phone,CLOSED,Medium,,1
+REQ-00098,05-02-2026,2026-05-09,BOSA,Noise Complaint,Mobile App,Closed,Low,7,2
+REQ-00162,09-13-2025,,SUMAPAZ,  Park Maintenance ,Mobile App,in progress,Critical,1,4
+REQ-00032,2026-06-16,25/06/2026,Suba,  Graffiti ,Phone,  Closed ,  High ,9,2
+REQ-00835,2026-02-11,2026-02-13,Engativa,PARK MAINTENANCE,Social Media,closed,  Critical ,2,4
+REQ-00020,2026-06-03,2026-06-04,Tunjuelito,Water Leak,IN PERSON,  Closed ,  Low ,1,4
+REQ-00483,2026-01-23,29/01/2026,Tunjuelito,Noise Complaint,Mobile App,Closed,Medium,6,2
+REQ-00984,2026-05-09,21/05/2026,MARTIRES,Streetlight,  Mobile App ,In Progress,Critical,12,
+REQ-00836,05-26-2025,2025-06-03,TEUSAQUILLO,  Pothole ,Phone,Cancelled,Low,8,1
+REQ-00601,2025-11-09,11-11-2025,Teusaquillo,Noise Complaint,Web,IN PROGRESS,  Low ,2,3
+REQ-00050,2025-11-24,02/12/2025,Ciudad Bolivar,Water Leak,In Person,Closed,CRITICAL,8,
+REQ-00561,09/01/2026,,TUNJUELITO,,MOBILE APP,Cancelled,CRITICAL,7,1
+REQ-00254,2025-02-07,2025-02-12,Bosa,Waste Collection,  Mobile App ,CLOSED,  High ,5,4
+REQ-00520,2025-12-05,12-14-2025,Suba,WATER LEAK,Web,CLOSED,Critical,9,4
+REQ-00804,2026-02-18,2026-03-19,antonio narino,Noise Complaint,Web,CLOSED,Medium,29,3
+REQ-00863,2026-05-28,2026-05-28,Puente Aranda,noise complaint,Mobile App,Closed,Medium,0,3
+REQ-00952,2025-02-09,02-14-2025,Usme,  Graffiti ,In Person,  Closed ,High,5,4
+REQ-00644,2025-01-23,01-28-2025,CHAPINERO,WATER LEAK,Web,closed,High,5,3
+REQ-00124,2025-10-06,06/10/2025,Antonio Narino,Park Maintenance,Phone,closed,MEDIUM,0,2
+REQ-00588,2025-06-05,25/06/2025,Bosa,graffiti,  Mobile App ,closed,Critical,20,5
+REQ-00727,2025-11-23,2025-11-29,Usaquen,Pothole,Mobile App,cancelled,Medium,6,5
+REQ-00822,21/12/2025,,  Usaquen ,Park Maintenance,Phone,In Progress,High,8,
+REQ-00578,2025-10-08,2025-10-08,Sumapaz,  Graffiti ,In Person,Closed,critical,0,1
+REQ-00247,28/03/2025,,Sumapaz,STREETLIGHT,IN PERSON,CLOSED,,6,
+REQ-00241,01-07-2025,2025-01-18,Usaquen,Streetlight,Social Media,CANCELLED,High,11,4
+REQ-00080,2025-10-07,2025-10-09,  Candelaria ,noise complaint,Phone,  Closed ,Medium,2,5
+REQ-00517,15/08/2025,08-17-2025,Tunjuelito,Sidewalk Repair,web,closed,Low,2,
+REQ-00760,08-02-2025,2025-08-07,Fontibon,PARK MAINTENANCE,In Person,Cancelled,medium,5,2
+REQ-00954,25/04/2026,04-29-2026,Teusaquillo,Sidewalk Repair,Phone,Closed,High,4,3
+REQ-00725,2026-03-25,2026-03-26,FONTIBON,Park Maintenance,Mobile App,Closed,Critical,1,1
+REQ-00255,05-18-2026,25/05/2026,,Streetlight,IN PERSON,Closed,medium,7,1
+REQ-00487,2025-03-31,2025-04-05,tunjuelito,Pothole,Social Media,Closed,Critical,5,5
+REQ-00138,12/01/2025,01-14-2025,Antonio Narino,Pothole,,  Cancelled ,Medium,2,3
+REQ-00903,05-02-2025,,Suba,Waste Collection,web,In Progress,MEDIUM,4,5
+REQ-00557,12-14-2025,17/12/2025,Santa Fe,park maintenance,  Social Media ,Closed,High,3,4
+REQ-00631,2026-04-16,,Bosa,Waste Collection,Web,In Progress,low,2,
+REQ-00957,2025-11-25,2025-11-25,San Cristobal,park maintenance,Phone,Closed,High,0,3
+REQ-00214,04-29-2025,,  Engativa ,Pothole,Social Media,In Progress,CRITICAL,6,
+REQ-00658,09/02/2025,02-18-2025,Antonio Narino,Graffiti,Web,Closed,High,9,4
+REQ-00541,08-06-2025,2025-08-25,Antonio Narino,WATER LEAK,Mobile App,Cancelled,Medium,19,5
+REQ-00805,02-05-2025,2025-02-06,Suba,Water Leak,Phone,Closed,  Critical ,1,1
+REQ-00515,07-11-2025,,  Teusaquillo ,Sidewalk Repair,SOCIAL MEDIA,In Progress,High,5,2
+REQ-00905,2026-03-29,2026-04-07,Suba,Noise Complaint,In Person,Closed,  Medium ,9,5
+REQ-00094,04/06/2025,06-06-2025,Kennedy,  Streetlight ,Mobile App,  Closed ,Medium,2,4
+REQ-00490,15/02/2025,2025-02-16,Candelaria,Park Maintenance,In Person,Closed,Medium,1,2
+REQ-00941,2025-10-29,,Chapinero,waste collection,  Social Media ,OPEN,Low,0,
+REQ-00560,2026-05-11,15/05/2026,Rafael Uribe,Graffiti,Mobile App,cancelled,High,4,1
+REQ-00350,2026-03-07,08/03/2026,San Cristobal,Graffiti,Web,CANCELLED,Medium,1,5
+REQ-00239,29/03/2026,2026-03-31,PUENTE ARANDA,Graffiti,Phone,Closed,Low,2,4
+REQ-00951,06-02-2025,,Barrios Unidos,Park Maintenance,Social Media,In Progress,HIGH,9,
+REQ-00076,2026-02-23,02-23-2026,Candelaria,Streetlight,Web,CLOSED,High,0,
+REQ-00457,2025-03-08,,Fontibon,Park Maintenance,phone,open,HIGH,2,
+REQ-00406,2026-06-17,2026-06-29,Puente Aranda,Pothole,In Person,Closed,Critical,12,4
+REQ-00819,2026-06-27,,,  Waste Collection ,  Phone ,In Progress,  Medium ,6,
+REQ-00037,2025-12-10,17/12/2025,Puente Aranda,Noise Complaint,Web,Closed,HIGH,7,1
+REQ-00769,2026-06-01,2026-06-12,Chapinero,  Pothole ,PHONE,Closed,  High ,11,1
+REQ-00153,2025-11-13,11-14-2025,Candelaria,Sidewalk Repair,In Person,cancelled,,1,3
+REQ-00441,2025-06-22,2025-06-22,Engativa,WASTE COLLECTION,Web,Closed,Medium,0,3
+REQ-00188,29/07/2025,,sumapaz,Park Maintenance,In Person,Open,High,5,
+REQ-00261,01/02/2025,2025-02-08,Usaquen,Noise Complaint,Web,Closed,MEDIUM,7,3
+REQ-00063,2026-03-10,2026-03-12,Rafael Uribe,  Noise Complaint ,Mobile App,Closed,  Critical ,2,5
+REQ-00602,11/11/2025,2025-11-15,Bosa,POTHOLE,PHONE,CANCELLED,High,4,4
+REQ-00185,02-11-2026,02-12-2026,Usaquen,Waste Collection,Web,Cancelled,MEDIUM,1,1
+REQ-00908,2026-04-02,,Chapinero,Water Leak,Social Media,  Open ,Critical,4,
+REQ-00207,2025-10-14,2025-10-23,Santa Fe,Graffiti,Phone,Cancelled,High,9,4
+REQ-00030,2025-08-25,08-29-2025,  Barrios Unidos ,Waste Collection,Web,  Closed ,medium,4,4
+REQ-00687,2025-09-12,2025-09-18,FONTIBON,Water Leak,Web,Closed,CRITICAL,6,2
+REQ-00446,2025-08-19,2025-09-04,Candelaria,GRAFFITI,Phone,cancelled,Low,16,5
+REQ-00097,16/03/2026,2026-03-20,sumapaz,  Noise Complaint ,MOBILE APP,closed,Critical,4,1
+REQ-00585,12-02-2025,12-16-2025,Tunjuelito,Graffiti,  Phone ,closed,LOW,14,2
+REQ-00267,25/08/2025,,,Noise Complaint,WEB,IN PROGRESS,High,1,
+REQ-00248,2026-02-20,21/02/2026,San Cristobal,Streetlight,Social Media,Closed,low,1,
+REQ-00996,2025-08-16,23/08/2025,Tunjuelito,NOISE COMPLAINT,Web,  Closed ,MEDIUM,7,1
+REQ-00056,2026-02-15,19/02/2026,Fontibon,Waste Collection,Mobile App,Closed,Critical,4,5
+REQ-00417,2025-04-10,2025-04-18,Suba,Noise Complaint,Social Media,CLOSED,HIGH,8,5
+REQ-00537,05-31-2025,,San Cristobal,GRAFFITI,Social Media,Closed,  High ,16,1
+REQ-00893,2026-02-12,,,Graffiti,Social Media,  In Progress ,Medium,8,
+REQ-00234,13/04/2025,,Teusaquillo,Park Maintenance,Web,OPEN,High,0,
+REQ-00525,25/12/2025,2026-01-02,Sumapaz,POTHOLE,Web,CLOSED,High,8,2
+REQ-00939,08-17-2025,2025-08-17,FONTIBON,Park Maintenance,Social Media,  Cancelled ,MEDIUM,0,4
+REQ-00825,2026-05-12,2026-05-17,bosa,Streetlight,  Mobile App ,Cancelled,Medium,5,3
+REQ-00296,2026-03-15,15/03/2026,Engativa,Graffiti,Social Media,Closed,LOW,0,5
+REQ-00019,12/06/2026,2026-06-18,Candelaria,  Graffiti ,Phone,In Progress,Medium,6,1
+REQ-00901,2026-01-26,2026-02-04,Engativa,SIDEWALK REPAIR,  Web ,  Closed ,MEDIUM,9,3
+REQ-00562,07/02/2025,02-24-2025,Barrios Unidos,Noise Complaint,Social Media,IN PROGRESS,Medium,17,
+REQ-00233,22/04/2026,2026-04-25,KENNEDY,Park Maintenance,Phone,Closed,Low,3,5
+REQ-00278,2025-06-26,06-29-2025,Engativa,Water Leak,Social Media,Closed,Critical,3,2
+REQ-00616,2026-01-06,,Santa Fe,Sidewalk Repair,,Cancelled,Critical,3,1
+REQ-00036,04-28-2026,05-06-2026,Kennedy,Noise Complaint,web,Closed,Low,8,3
+REQ-00335,2026-01-07,,Suba,Streetlight,Social Media,  Open ,  High ,4,
+REQ-00343,2025-07-27,2025-08-02,Chapinero,Waste Collection,Phone,Closed,Critical,6,5
+REQ-00325,2025-01-25,2025-02-06,  Usaquen ,  Noise Complaint ,Social Media,Closed,Medium,,5
+REQ-00168,19/06/2026,30/06/2026,Santa Fe,Sidewalk Repair,Social Media,Closed,Medium,11,5
+REQ-00750,2025-02-08,,MARTIRES,Park Maintenance,  Web ,Open,Low,0,
+REQ-00042,19/03/2026,2026-03-19,  Engativa ,  Streetlight ,Phone,  Cancelled ,CRITICAL,0,5
+REQ-00874,17/04/2026,04-26-2026,fontibon,Waste Collection,Web,closed,Medium,9,
+REQ-00438,15/06/2026,,RAFAEL URIBE,  Sidewalk Repair ,  Web ,  Closed ,High,9,2
+REQ-00505,15/03/2026,16/03/2026,Usme,  Waste Collection ,IN PERSON,closed,Critical,1,3
+REQ-00127,2025-08-28,2025-09-01,Kennedy,Streetlight,MOBILE APP,Closed,Critical,4,2
+REQ-00809,2025-06-08,,  Ciudad Bolivar ,Sidewalk Repair,Social Media,Cancelled,  Medium ,2,4
+REQ-00730,06/03/2026,,  Rafael Uribe ,Pothole,  Phone ,In Progress,Critical,3,
+REQ-00570,2026-02-06,2026-02-18,Fontibon,Noise Complaint,Web,Closed,Medium,12,5
+REQ-00293,2025-06-08,06-26-2025,Engativa,Sidewalk Repair,Mobile App,Closed,  Critical ,18,5
+REQ-00991,26/04/2025,27/04/2025,Tunjuelito,Sidewalk Repair,mobile app,In Progress,Medium,1,4
+REQ-00136,23/05/2026,24/05/2026,Candelaria,pothole,Phone,Closed,Medium,1,2
+REQ-00665,06-26-2025,,FONTIBON,Pothole,Mobile App,In Progress,  Critical ,20,3
+REQ-00308,2025-07-21,2025-07-22,,Pothole,WEB,Closed,low,1,4
+REQ-00021,2026-01-03,20/01/2026,Barrios Unidos,,  In Person ,Cancelled,High,17,1
+REQ-00776,2025-11-21,2025-12-26,CHAPINERO,STREETLIGHT,Social Media,Closed,High,35,3
+REQ-00599,11-29-2025,12-18-2025,TEUSAQUILLO,Park Maintenance,IN PERSON,Closed,Medium,19,5
+REQ-00047,09-25-2025,,San Cristobal,STREETLIGHT,Social Media,Closed,Medium,0,3
+REQ-00604,2025-10-01,2025-10-01,ANTONIO NARINO,Park Maintenance,In Person,Cancelled,High,,2
+REQ-00321,03-31-2025,2025-04-06,Candelaria,  Waste Collection ,Phone,Closed,CRITICAL,6,5
+REQ-00260,2026-04-17,18/04/2026,Martires,Sidewalk Repair,PHONE,Closed,critical,1,2
+REQ-00841,2026-03-25,2026-03-27,Barrios Unidos,Park Maintenance,In Person,Closed,Medium,2,3
+REQ-00612,08/12/2025,2025-12-12,Ciudad Bolivar,park maintenance,,In Progress,medium,4,
+REQ-00636,06-04-2025,06/06/2025,  Barrios Unidos ,Water Leak,In Person,Cancelled,CRITICAL,2,1
+REQ-00166,2026-05-06,05-16-2026,barrios unidos,pothole,Mobile App,  Closed ,critical,10,4
+REQ-00824,23/04/2026,2026-05-09,Martires,Waste Collection,Mobile App,In Progress,Medium,16,
+REQ-00758,21/04/2026,23/04/2026,  San Cristobal ,Streetlight,Social Media,Closed,Medium,2,4
+REQ-00990,2025-01-10,10/01/2025,puente aranda,Waste Collection,Mobile App,CANCELLED,Low,0,1
+REQ-00242,2025-08-05,06/08/2025,kennedy,NOISE COMPLAINT,In Person,Cancelled,Critical,1,5
+REQ-00100,2025-03-07,08/03/2025,rafael uribe,  Graffiti ,Web,CLOSED,medium,1,2
+REQ-00386,11-19-2025,,Usaquen,  Sidewalk Repair ,Web,Open,Low,0,
+REQ-00774,10-24-2025,,  Chapinero ,Pothole,Mobile App,Open,  Medium ,2,5
+REQ-00682,13/05/2025,2025-05-14,Martires,Water Leak,In Person,Closed,High,1,1
+REQ-00534,2026-01-16,2026-01-22,Puente Aranda,Sidewalk Repair,Social Media,Closed,Medium,6,5
+REQ-00633,2025-10-18,,  Teusaquillo ,Streetlight,Web,Open,Low,13,
+REQ-00151,05/06/2026,13/06/2026,Bosa,Noise Complaint,Web,Closed,MEDIUM,8,2
+REQ-00114,2025-05-16,,Chapinero,Sidewalk Repair,Web,  Closed ,Medium,19,1
+REQ-00714,06-18-2026,,  Teusaquillo ,Park Maintenance,Web,Open,High,0,
+REQ-00743,22/01/2025,25/01/2025,bosa,pothole,Social Media,CLOSED,Medium,3,4
+REQ-00193,2026-06-11,,Engativa,Park Maintenance,  Phone ,  Open ,  Medium ,2,
+REQ-00447,2025-10-14,,Engativa,Pothole,Phone,Open,  High ,0,
+REQ-00842,09/10/2025,,Chapinero,  Noise Complaint ,In Person,  In Progress ,Low,2,
+REQ-00055,2025-02-12,,engativa,noise complaint,Phone,Open,Low,0,
+REQ-00349,2026-04-22,2026-04-22,,waste collection,Web,In Progress,Medium,0,
+REQ-00971,2025-05-23,,Antonio Narino,Water Leak,Phone,open,High,6,2
+REQ-00806,2025-03-28,03/04/2025,Kennedy,Graffiti,Social Media,Closed,Critical,6,4
+REQ-00900,10-04-2025,,Puente Aranda,Waste Collection,Web,In Progress,low,,
+REQ-00630,12-27-2025,2025-12-28,Antonio Narino,Park Maintenance,PHONE,CLOSED,Medium,1,1
+REQ-00238,2026-04-09,2026-04-10,Kennedy,Streetlight,Web,Closed,Critical,1,5
+REQ-00936,11/07/2025,2025-07-12,Fontibon,POTHOLE,  Web ,Closed,Low,1,2
+REQ-00171,14/08/2025,08-16-2025,Santa Fe,Noise Complaint,Social Media,  Closed ,  Critical ,2,3
+REQ-00983,16/01/2025,2025-01-24,Fontibon,Park Maintenance,Mobile App,Closed,High,8,4
+REQ-00526,2026-01-22,,Kennedy,graffiti,In Person,In Progress,Critical,1,
+REQ-00034,2025-12-21,05/01/2026,Bosa,  Graffiti ,  Web ,CLOSED,Low,15,3
+REQ-00935,20/07/2025,21/07/2025,Fontibon,Park Maintenance,  Phone ,Closed,High,1,
+REQ-00917,2025-07-23,2025-07-27,Antonio Narino,Pothole,Social Media,CLOSED,Critical,4,1
+REQ-00154,02/03/2026,13/03/2026,  Fontibon ,Waste Collection,Web,  Cancelled ,Medium,11,2
+REQ-00141,2025-01-29,2025-01-30,TUNJUELITO,Water Leak,Mobile App,CLOSED,Medium,1,4
+REQ-00129,2026-05-18,06-01-2026,Tunjuelito,Streetlight,Phone,Closed,Medium,14,4
+REQ-00117,05-31-2025,,SUMAPAZ,Waste Collection,  Mobile App ,Closed,MEDIUM,2,5
+REQ-00938,13/02/2026,13/02/2026,Rafael Uribe,  Noise Complaint ,Web,CLOSED,Medium,0,
+REQ-00855,20/03/2026,2026-03-22,Tunjuelito,Waste Collection,Social Media,Closed,Medium,2,4
+REQ-00912,01/06/2025,2025-06-09,Engativa,Pothole,Mobile App,Closed,Medium,8,4
+REQ-00178,2025-06-22,30/06/2025,Ciudad Bolivar,GRAFFITI,Social Media,Closed,  Critical ,8,4
+REQ-00573,01-20-2026,23/01/2026,ENGATIVA,Sidewalk Repair,Social Media,Closed,Critical,3,4
+REQ-00792,27/11/2025,2025-11-29,Bosa,Streetlight,MOBILE APP,Closed,Low,2,1
+REQ-00753,04-01-2025,,Puente Aranda,sidewalk repair,  In Person ,Open,HIGH,15,
+REQ-00073,2025-02-03,,Engativa,Noise Complaint,WEB,open,,18,5
+REQ-00374,08/05/2025,05-14-2025,Usaquen,Graffiti,Web,Closed,Critical,6,5
+REQ-00283,31/01/2026,02-02-2026,CIUDAD BOLIVAR,Sidewalk Repair,Web,Closed,Low,2,1
+REQ-00280,2025-09-10,09-11-2025,Engativa,Noise Complaint,Mobile App,Closed,  Low ,1,5
+REQ-00782,09/06/2026,2026-06-11,CIUDAD BOLIVAR,  Pothole ,social media,Cancelled,MEDIUM,2,5
+REQ-00497,2025-02-25,,Suba,,In Person,In Progress,Medium,5,
+REQ-00120,2025-01-05,2025-01-05,Engativa,Pothole,Mobile App,Closed,Critical,0,3
+REQ-00194,04-13-2025,2025-04-16,chapinero,Pothole,Mobile App,  Closed ,High,3,1
+REQ-00668,03-04-2026,2026-03-07,Chapinero,Waste Collection,web,Cancelled,  High ,3,3
+REQ-00428,17/09/2025,2025-10-08,Tunjuelito,  Noise Complaint ,Phone,Closed,Low,21,5
+REQ-00059,20/01/2025,2025-01-20,Puente Aranda,Sidewalk Repair,Phone,CLOSED,MEDIUM,0,
+REQ-00450,2025-08-05,2025-08-06,Bosa,Graffiti,SOCIAL MEDIA,In Progress,Medium,1,
+REQ-00163,07/05/2025,2025-05-21,Chapinero,Water Leak,,Closed,  High ,14,4
+REQ-00300,2025-02-05,,San Cristobal,Water Leak,Web,  In Progress ,MEDIUM,13,
+REQ-00569,2026-03-23,,  San Cristobal ,  Waste Collection ,  Web ,Cancelled,  High ,14,4
+REQ-00846,2026-03-11,03-12-2026,Martires,Graffiti,Phone,Cancelled,  High ,1,2
+REQ-00759,01/02/2025,2025-02-09,Sumapaz,Waste Collection,In Person,Closed,Medium,8,5
+REQ-00351,2026-06-10,2026-06-15,Antonio Narino,Pothole,Web,Closed,Critical,5,
+REQ-00674,2025-09-08,08/09/2025,rafael uribe,  Waste Collection ,Mobile App,Closed,High,0,
+REQ-00946,12-19-2025,2025-12-25,  Santa Fe ,NOISE COMPLAINT,Social Media,CLOSED,high,6,2
+REQ-00407,25/06/2026,2026-06-27,Antonio Narino,Water Leak,In Person,Closed,,2,3
+REQ-00868,25/04/2025,2025-04-26,ENGATIVA,  Graffiti ,Phone,Cancelled,High,1,1
+REQ-00797,12/03/2026,03-18-2026,Santa Fe,Park Maintenance,  Phone ,Closed,  Medium ,6,3
+REQ-00928,01-06-2025,08/01/2025,  Antonio Narino ,Park Maintenance,Mobile App,  Closed ,Critical,2,3
+REQ-00170,2026-04-02,2026-04-02,RAFAEL URIBE,WASTE COLLECTION,Social Media,  Closed ,High,0,
+REQ-00715,02/01/2026,,  Fontibon ,GRAFFITI,In Person,Open,Low,34,
+REQ-00424,2025-05-04,05-08-2025,rafael uribe,Graffiti,Mobile App,Closed,LOW,4,1
+REQ-00887,2025-06-01,,Rafael Uribe,  Water Leak ,PHONE,In Progress,high,0,
+REQ-00597,2025-08-30,08-30-2025,Engativa,Noise Complaint,Web,CLOSED,,0,5
+REQ-00013,2025-09-20,2025-09-22,Teusaquillo,Sidewalk Repair,In Person,closed,Medium,2,5
+REQ-00649,2026-02-27,2026-03-14,Engativa,Graffiti,PHONE,Closed,Critical,15,2
+REQ-00282,2026-01-26,2026-01-29,Bosa,Streetlight,  In Person ,Closed,Medium,3,5
+REQ-00546,2026-01-29,,  Chapinero ,Graffiti,Social Media,In Progress,MEDIUM,4,3
+REQ-00584,2025-07-11,29/07/2025,  Puente Aranda ,waste collection,MOBILE APP,Closed,critical,18,4
+REQ-00848,08/04/2025,2025-04-23,  Rafael Uribe ,Water Leak,Web,Closed,High,15,4
+REQ-00844,2026-01-22,25/01/2026,Kennedy,Water Leak,phone,cancelled,HIGH,3,1
+REQ-00344,25/12/2025,01-06-2026,Martires,Sidewalk Repair,In Person,closed,critical,12,3
+REQ-00074,2025-01-01,2025-01-12,Sumapaz,  Waste Collection ,PHONE,CLOSED,Low,11,3
+REQ-00506,01/01/2025,09/01/2025,Suba,Water Leak,Mobile App,Closed,High,8,1
+REQ-00929,18/03/2026,2026-03-20,Candelaria,Graffiti,Web,  Closed ,Medium,2,
+REQ-00118,2025-12-13,12-13-2025,Martires,noise complaint,  Web ,Closed,Medium,0,3
+REQ-00016,2026-04-03,22/04/2026,Engativa,Pothole,Phone,CLOSED,HIGH,19,5
+REQ-00927,2026-05-01,,Santa Fe,NOISE COMPLAINT,Phone,In Progress,low,2,5
+REQ-00471,11-11-2025,16/11/2025,Teusaquillo,Waste Collection,Web,closed,  High ,5,2
+REQ-00246,2025-06-25,06-29-2025,Santa Fe,  Graffiti ,,  Cancelled ,Low,4,2
+REQ-00902,08/11/2025,11-09-2025,Chapinero,Pothole,Social Media,  Closed ,Low,1,3
+REQ-00077,2025-01-31,2025-02-15,Usme,Sidewalk Repair,web,Closed,Medium,15,
+REQ-00174,2025-07-21,,Barrios Unidos,NOISE COMPLAINT,Social Media,  In Progress ,Critical,0,3
+REQ-00784,2025-09-04,2025-09-04,bosa,Water Leak,Phone,Closed,  High ,0,2
+REQ-00910,2025-09-26,,,Park Maintenance,Web,OPEN,Low,1,
+REQ-00641,03/03/2026,2026-03-04,Bosa,Streetlight,Phone,Closed,Low,1,
+REQ-00708,16/05/2026,2026-05-18,  Usaquen ,  Sidewalk Repair ,MOBILE APP,Cancelled,  High ,2,3
+REQ-00491,2025-03-31,2025-04-01,  Fontibon ,noise complaint,In Person,closed,Low,1,5
+REQ-00189,06-16-2025,,Tunjuelito,Water Leak,Mobile App,OPEN,Critical,16,
+REQ-00392,02-06-2025,,Suba,POTHOLE,Social Media,OPEN,Medium,6,
+REQ-00587,19/05/2026,05-20-2026,  Sumapaz ,  Streetlight ,Mobile App,Closed,LOW,1,3
+REQ-00475,2025-06-12,,SUBA,Pothole,PHONE,Closed,Medium,2,4
+REQ-00281,10-24-2025,11-03-2025,Usme,Water Leak,Phone,Closed,CRITICAL,10,5
+REQ-00889,07/06/2026,06-08-2026,Ciudad Bolivar,Water Leak,Web,Closed,Medium,1,2
+REQ-00257,21/08/2025,08-24-2025,Teusaquillo,Graffiti,Mobile App,CLOSED,Low,3,3
+REQ-00369,27/09/2025,2025-10-04,Teusaquillo,Water Leak,IN PERSON,Closed,CRITICAL,7,3
+REQ-00992,10/10/2025,11/10/2025,Engativa,POTHOLE,Web,Closed,Medium,1,2
+REQ-00576,2025-09-06,,Fontibon,GRAFFITI,Phone,In Progress,Medium,0,
+REQ-00429,10/05/2026,2026-05-22,Candelaria,Noise Complaint,In Person,  Closed ,High,12,4
+REQ-00399,28/02/2026,,Sumapaz,NOISE COMPLAINT,Social Media,In Progress,Medium,0,
+REQ-00787,21/02/2025,2025-02-24,Engativa,Park Maintenance,Phone,closed,High,3,1
+REQ-00458,2026-02-26,2026-02-28,  Suba ,Sidewalk Repair,  Mobile App ,Closed,Low,2,1
+REQ-00134,03/06/2026,06-03-2026,Puente Aranda,Streetlight,mobile app,Closed,  Medium ,0,4
+REQ-00132,12/01/2026,2026-01-13,SUMAPAZ,waste collection,,  Closed ,Low,1,1
+REQ-00337,2026-02-24,01/03/2026,Ciudad Bolivar,Sidewalk Repair,WEB,Closed,Medium,,3
+REQ-00265,05-26-2026,05-27-2026,USME,Park Maintenance,  Mobile App ,Closed,Low,1,2
+REQ-00272,2026-06-28,06/07/2026,Suba,Noise Complaint,  In Person ,Cancelled,Medium,8,2
+REQ-00177,2026-04-18,,Tunjuelito,Graffiti,Phone,Open,Critical,5,2
+REQ-00849,2026-05-13,2026-05-14,Santa Fe,  Park Maintenance ,Web,closed,Medium,1,
+REQ-00405,04/11/2025,11-07-2025,Chapinero,water leak,MOBILE APP,Closed,critical,3,4
+REQ-00103,09-30-2025,2025-10-09,Engativa,park maintenance,IN PERSON,Cancelled,High,9,4
+REQ-00199,01-31-2025,2025-02-10,Rafael Uribe,Streetlight,WEB,cancelled,Low,10,3
+REQ-00786,15/06/2026,,Usme,Streetlight,In Person,Open,MEDIUM,2,2
+REQ-00589,2026-02-17,2026-02-18,Engativa,Waste Collection,Social Media,Closed,Critical,1,2
+REQ-00995,04-08-2025,,Puente Aranda,  Park Maintenance ,Phone,IN PROGRESS,  Medium ,9,
+REQ-00728,03-29-2025,,Rafael Uribe,  Waste Collection ,mobile app,open,Medium,3,
+REQ-00751,03-17-2025,,,Noise Complaint,Phone,In Progress,Low,,
+REQ-00571,12/11/2025,2025-11-12,  Martires ,Streetlight,Web,Closed,Critical,0,2
+REQ-00379,04/02/2025,02-07-2025,Martires,Graffiti,in person,Closed,Low,3,5
+REQ-00307,18/07/2025,2025-08-05,Barrios Unidos,  Park Maintenance ,Web,Cancelled,  Medium ,18,5
+REQ-00755,2025-07-03,2025-07-06,Teusaquillo,  Pothole ,Social Media,closed,Low,3,1
+REQ-00060,2025-02-08,09/02/2025,Chapinero,  Noise Complaint ,  Mobile App ,Closed,  High ,1,1
+REQ-00033,06/02/2025,2025-02-10,Rafael Uribe,  Waste Collection ,  Phone ,Closed,Critical,4,4
+REQ-00595,06-21-2026,,Sumapaz,Sidewalk Repair,Phone,In Progress,high,2,
+REQ-00078,21/01/2026,01-21-2026,Barrios Unidos,SIDEWALK REPAIR,mobile app,closed,HIGH,0,4
+REQ-00315,2026-04-02,2026-04-10,Santa Fe,Streetlight,Web,Closed,High,8,3
+REQ-00108,08/01/2025,2025-01-08,Teusaquillo,Pothole,  Web ,  Closed ,Low,0,3
+REQ-00022,2025-10-08,2025-10-23,Rafael Uribe,Noise Complaint,Mobile App,Closed,  Low ,15,2
+REQ-00925,2025-10-06,08/10/2025,Chapinero,Waste Collection,Social Media,  Closed ,  High ,2,2
+REQ-00872,02-21-2026,23/02/2026,Sumapaz,Waste Collection,PHONE,Closed,Medium,2,1
+REQ-00964,16/08/2025,,Usme,Waste Collection,In Person,  In Progress ,Low,4,
+REQ-00647,28/02/2026,2026-03-06,  Teusaquillo ,Sidewalk Repair,  Phone ,Closed,Critical,6,3
+REQ-00635,2025-09-22,09-24-2025,Usaquen,Park Maintenance,Phone,CANCELLED,Medium,2,4
+REQ-00642,30/05/2026,2026-05-31,Puente Aranda,POTHOLE,  Social Media ,  Closed ,MEDIUM,1,4
+REQ-00732,08-16-2025,2025-08-18,Usaquen,NOISE COMPLAINT,social media,Cancelled,low,2,4
+REQ-00574,2025-12-08,2025-12-16,Candelaria,Waste Collection,Web,  Closed ,Medium,8,1
+REQ-00480,27/04/2026,,,GRAFFITI,MOBILE APP,  Open ,Medium,0,
+REQ-00778,2025-02-05,15/02/2025,Candelaria,Waste Collection,Web,Closed,Medium,10,1
+REQ-00271,2025-03-16,,SUMAPAZ,Streetlight,In Person,IN PROGRESS,LOW,1,
+REQ-00211,2025-05-29,05-31-2025,Suba,Water Leak,Web,CLOSED,Critical,2,2
+REQ-00847,18/06/2025,2025-06-27,Bosa,Water Leak,In Person,Closed,,9,1
+REQ-00524,2025-05-16,,BOSA,Noise Complaint,In Person,  Cancelled ,Critical,29,3
+REQ-00172,2025-01-23,01-23-2025,CHAPINERO,Park Maintenance,In Person,Closed,Medium,0,4
+REQ-00689,01-11-2025,12/01/2025,San Cristobal,Pothole,  Phone ,cancelled,  Critical ,1,5
+REQ-00933,2025-07-25,,Rafael Uribe,WATER LEAK,In Person,Open,Low,0,
+REQ-00535,2025-07-18,2025-08-12,  Rafael Uribe ,Park Maintenance,Mobile App,Closed,  Critical ,25,
+REQ-00002,2026-06-10,,Teusaquillo,noise complaint,  Social Media ,Open,Medium,0,
+REQ-00208,04-06-2025,,MARTIRES,Water Leak,Web,Open,  Medium ,9,
+REQ-00545,22/04/2025,2025-04-22,  Ciudad Bolivar ,  Noise Complaint ,Web,Closed,High,0,2
+REQ-00873,04-11-2026,,Candelaria,Waste Collection,Social Media,  Open ,CRITICAL,23,
+REQ-00116,2026-06-19,29/06/2026,Teusaquillo,SIDEWALK REPAIR,Mobile App,Closed,Critical,10,
+REQ-00004,13/03/2025,15/03/2025,Suba,  Streetlight ,Phone,Closed,Medium,2,1
+REQ-00945,05-20-2025,2025-06-08,sumapaz,streetlight,  In Person ,Cancelled,High,19,5
+REQ-00761,2025-08-04,,Barrios Unidos,Pothole,Phone,Open,Medium,0,
+REQ-00791,2026-05-31,2026-06-09,Teusaquillo,Graffiti,social media,closed,high,9,1
+REQ-00899,2026-03-26,2026-03-30,  Suba ,GRAFFITI,Phone,Closed,Critical,4,4
+REQ-00237,2025-03-23,25/03/2025,ENGATIVA,Pothole,Phone,  Closed ,High,2,3
+REQ-00724,2026-01-24,24/01/2026,chapinero,Park Maintenance,Mobile App,  Closed ,Critical,0,3
+REQ-00771,2025-02-12,17/02/2025,tunjuelito,WATER LEAK,web,Closed,High,5,3
+REQ-00761,2025-08-04,,Barrios Unidos,Pothole,Phone,Open,Medium,0,
+REQ-00427,2025-08-02,,CIUDAD BOLIVAR,GRAFFITI,  Mobile App ,Closed,high,0,1
+REQ-00673,04-11-2026,04-12-2026,Suba,  Sidewalk Repair ,Social Media,Cancelled,medium,1,1
+REQ-00268,2025-12-15,21/12/2025,Candelaria,Park Maintenance,Web,IN PROGRESS,High,6,
+REQ-00921,08/03/2026,2026-03-28,Teusaquillo,Streetlight,Social Media,In Progress,Medium,20,
+REQ-00958,2025-04-27,2025-04-28,Candelaria,Graffiti,Web,Closed,CRITICAL,1,1
+REQ-00789,05-08-2026,,Candelaria,Park Maintenance,Web,Open,Medium,,
+REQ-00681,01/02/2025,02-01-2025,San Cristobal,Graffiti,  Phone ,Cancelled,Medium,0,2
+REQ-00198,02-23-2026,2026-02-27,USME,streetlight,Mobile App,Cancelled,Medium,4,4
+REQ-00303,05-04-2025,05-07-2025,Antonio Narino,noise complaint,Web,Closed,HIGH,3,4
+REQ-00911,2025-08-06,2025-08-11,Chapinero,Pothole,web,CLOSED,Critical,5,
+REQ-00364,11/12/2025,2025-12-16,Kennedy,Streetlight,phone,Closed,Medium,5,4
+REQ-00684,2025-10-13,,kennedy,WATER LEAK,Web,open,High,5,
+REQ-00005,05-07-2025,09/05/2025,BOSA,  Noise Complaint ,  Social Media ,Closed,High,2,4
+REQ-00354,2025-12-29,,  Usme ,,social media,In Progress,Critical,1,
+REQ-00965,05-16-2025,18/05/2025,  Suba ,  Waste Collection ,Phone,Closed,Low,2,5
+REQ-00863,2026-05-28,2026-05-28,Puente Aranda,noise complaint,Mobile App,Closed,Medium,0,3
+REQ-00803,2025-02-09,2025-02-10,martires,Sidewalk Repair,Social Media,Closed,Medium,1,4
+REQ-00200,21/01/2026,27/01/2026,Usaquen,Pothole,Social Media,CANCELLED,High,6,1
+REQ-00451,2025-08-06,,USME,Park Maintenance,Phone,Open,Critical,2,
+REQ-00732,08-16-2025,2025-08-18,Usaquen,NOISE COMPLAINT,social media,Cancelled,low,2,4
+REQ-00683,2025-11-14,14/11/2025,Usme,Waste Collection,In Person,CLOSED,Critical,0,5
+REQ-00634,2025-12-19,2025-12-25,  Ciudad Bolivar ,Noise Complaint,In Person,Closed,low,6,2
+REQ-00619,2025-12-31,2026-01-06,Puente Aranda,SIDEWALK REPAIR,Phone,Cancelled,  Critical ,6,1
+REQ-00802,2025-04-22,27/04/2025,Teusaquillo,Noise Complaint,Web,In Progress,,5,
+REQ-00875,2025-08-02,08-08-2025,Puente Aranda,Waste Collection,Phone,Closed,medium,6,4
+REQ-00389,2026-05-05,2026-05-09,Suba,noise complaint,  In Person ,Cancelled,  Medium ,4,4
+REQ-00290,2025-07-30,08/08/2025,Tunjuelito,STREETLIGHT,in person,Closed,  Medium ,9,3
+REQ-00164,2025-05-03,,Suba,Sidewalk Repair,Mobile App,OPEN,Low,7,
+REQ-00626,2025-02-09,17/03/2025,Candelaria,Sidewalk Repair,in person,Closed,Low,36,1
+REQ-00675,17/04/2025,,martires,  Noise Complaint ,Phone,Open,Medium,2,
+REQ-00891,2026-03-20,,Candelaria,Noise Complaint,IN PERSON,In Progress,Medium,7,2
+REQ-00298,2026-01-18,18/01/2026,kennedy,Water Leak,In Person,Closed,medium,0,2
+REQ-00442,07-12-2025,2025-07-18,Ciudad Bolivar,NOISE COMPLAINT,Mobile App,  Closed ,  Low ,6,5
+REQ-00821,2025-10-09,,Antonio Narino,Pothole,MOBILE APP,Open,Medium,18,
+REQ-00131,03/05/2026,05-16-2026,  Chapinero ,WATER LEAK,SOCIAL MEDIA,Closed,Critical,,2
+REQ-00547,08/07/2025,09/07/2025,Bosa,WASTE COLLECTION,  Phone ,Cancelled,Critical,1,5
+REQ-00489,2025-02-10,2025-02-20,PUENTE ARANDA,SIDEWALK REPAIR,  Phone ,Cancelled,Critical,10,2
+REQ-00271,2025-03-16,,SUMAPAZ,Streetlight,In Person,IN PROGRESS,LOW,1,
+REQ-00329,22/03/2026,2026-03-23,Rafael Uribe,Water Leak,Social Media,Closed,Medium,1,1
+REQ-00702,06/02/2025,12/02/2025,Teusaquillo,Park Maintenance,SOCIAL MEDIA,Closed,Critical,6,4
+REQ-00301,2026-04-26,2026-05-07,Puente Aranda,Streetlight,Social Media,closed,MEDIUM,11,4
+REQ-00949,02/01/2026,01-04-2026,Bosa,PARK MAINTENANCE,Social Media,Cancelled,Medium,2,2
+REQ-00072,31/12/2025,2025-12-31,Bosa,Graffiti,In Person,In Progress,High,0,
+REQ-00263,2025-09-10,,SANTA FE,  Sidewalk Repair ,Phone,Open,HIGH,7,
+REQ-00994,09-20-2025,09-20-2025,Ciudad Bolivar,Water Leak,Phone,  Closed ,Medium,0,2
+REQ-00826,03-30-2026,03/04/2026,Candelaria,Noise Complaint,Mobile App,CLOSED,High,,5
+REQ-00969,20/01/2026,01-22-2026,engativa,Pothole,Mobile App,Cancelled,Critical,2,1
+REQ-00770,29/01/2025,2025-02-01,TEUSAQUILLO,  Park Maintenance ,Mobile App,Closed,Medium,3,
+REQ-00449,2026-02-27,2026-03-01,Candelaria,Water Leak,In Person,CLOSED,Medium,2,2
+REQ-00894,2025-01-23,,Suba,Pothole,Mobile App,Open,Critical,6,
+REQ-00330,05-04-2025,,santa fe,Waste Collection,IN PERSON,  Open ,Critical,11,
+REQ-00256,2025-04-11,,,graffiti,Mobile App,Open,Low,,
+REQ-00861,2025-11-29,,Sumapaz,STREETLIGHT,MOBILE APP,open,Low,0,
+REQ-00691,06-06-2026,,Barrios Unidos,Noise Complaint,Mobile App,OPEN,Critical,10,
+REQ-00729,2025-11-26,26/11/2025,Teusaquillo,Noise Complaint,Mobile App,Closed,  High ,0,1
+REQ-00829,2026-05-21,05-29-2026,Martires,Noise Complaint,Social Media,Closed,Critical,8,5
+REQ-00914,10/02/2026,10/02/2026,  Usme ,Graffiti,web,Closed,Medium,,5
+REQ-00224,2025-01-29,,San Cristobal,Park Maintenance,PHONE,Open,  Medium ,0,
+REQ-00322,04-30-2025,,San Cristobal,park maintenance,In Person,Open,High,10,
+REQ-00850,2026-03-14,03-16-2026,Rafael Uribe,Graffiti,In Person,closed,Low,2,1
+REQ-00705,04-19-2026,29/04/2026,Rafael Uribe,Park Maintenance,In Person,Closed,Medium,10,
+REQ-00109,2025-07-11,17/07/2025,USME,Sidewalk Repair,In Person,Closed,  Low ,6,5
+REQ-00915,09/11/2025,11-13-2025,Bosa,noise complaint,  Mobile App ,Cancelled,high,4,1
+REQ-00738,2025-07-03,2025-07-18,Engativa,Water Leak,,CLOSED,Medium,15,4
+REQ-00670,05-03-2026,2026-05-09,kennedy,Streetlight,Mobile App,Cancelled,Critical,6,1
+REQ-00232,11/05/2026,2026-05-12,Candelaria,Water Leak,Social Media,Closed,LOW,1,4
+REQ-00671,2025-06-14,,Puente Aranda,Waste Collection,PHONE,In Progress,Critical,13,
+REQ-00319,05-13-2026,2026-05-20,Usme,Water Leak,Social Media,Closed,Low,7,2
+REQ-00236,2026-02-13,2026-02-15,Rafael Uribe,noise complaint,Phone,Closed,Low,2,5
+REQ-00455,2026-01-27,02/02/2026,Bosa,Waste Collection,In Person,In Progress,Critical,6,
+REQ-00886,09-17-2025,2025-10-04,Tunjuelito,Park Maintenance,In Person,Closed,High,17,5
+REQ-00860,02/02/2025,02-05-2025,antonio narino,  Water Leak ,Mobile App,CLOSED,Critical,3,2
+REQ-00739,2026-01-23,23/01/2026,  Bosa ,  Park Maintenance ,  Phone ,Closed,Medium,0,3
+REQ-00382,2026-06-29,01/07/2026,Usaquen,Pothole,In Person,closed,Medium,2,4
+REQ-00039,05-11-2025,05-11-2025,Bosa,Waste Collection,  In Person ,Cancelled,CRITICAL,0,5
+REQ-00186,2025-03-21,2025-03-23,Kennedy,,IN PERSON,  Closed ,High,2,4
+REQ-00095,2025-07-30,2025-08-03,Teusaquillo,Streetlight,PHONE,Closed,Medium,4,5
+REQ-00987,2026-02-26,28/02/2026,martires,STREETLIGHT,Phone,Closed,Critical,2,2
+REQ-00380,13/05/2026,05-29-2026,Sumapaz,  Noise Complaint ,Mobile App,  Cancelled ,Medium,16,5
+REQ-00834,08/04/2025,09/04/2025,Fontibon,Streetlight,In Person,Closed,Medium,1,5
+REQ-00425,2025-04-24,2025-04-30,Engativa,  Streetlight ,Web,Closed,High,6,5
+REQ-00396,2025-05-07,,Martires,Pothole,  Social Media ,open,High,17,3
+REQ-00864,08/02/2025,11/02/2025,BOSA,Park Maintenance,Mobile App,Closed,MEDIUM,3,4
+REQ-00832,2026-02-04,,Santa Fe,  Park Maintenance ,Phone,In Progress,  Medium ,0,
+REQ-00878,20/06/2025,22/06/2025,Suba,Sidewalk Repair,Social Media,closed,,2,
+REQ-00345,2025-07-08,07-13-2025,Suba,sidewalk repair,,Cancelled,  Low ,5,3
+REQ-00409,2026-02-26,2026-03-02,KENNEDY,Waste Collection,WEB,Closed,Medium,4,4
+REQ-00387,26/01/2026,2026-01-29,  Engativa ,WASTE COLLECTION,  Web ,Cancelled,Low,3,5
+REQ-00959,2026-03-20,2026-03-26,Puente Aranda,WATER LEAK,Phone,Closed,Medium,6,2
+REQ-00346,2026-03-20,03-24-2026,Teusaquillo,Sidewalk Repair,mobile app,Closed,Low,4,1
+REQ-00049,07/10/2025,10/10/2025,Tunjuelito,Waste Collection,IN PERSON,Closed,Medium,3,5
+REQ-00853,05/10/2025,10-05-2025,  Antonio Narino ,Park Maintenance,Mobile App,Closed,Critical,0,1
+REQ-00600,02-14-2025,22/02/2025,  Engativa ,Water Leak,  Phone ,Closed,Low,8,3
+REQ-00012,2025-06-13,2025-06-25,Bosa,Park Maintenance,Web,Awaiting_legacy_sys,Medium,12,4
+REQ-00295,04-13-2026,2026-04-13,Barrios Unidos,sidewalk repair,Web,Closed,Medium,0,4
+REQ-00514,26/10/2025,2025-10-27,Kennedy,Noise Complaint,In Person,Cancelled,High,1,5
+REQ-00075,04-08-2026,2026-04-10,Candelaria,WASTE COLLECTION,Phone,Closed,Medium,2,5
+REQ-00695,2026-03-28,2026-04-06,Engativa,GRAFFITI,Web,Closed,Medium,9,1
+REQ-00191,2026-01-29,30/01/2026,Candelaria,Water Leak,Web,Closed,Medium,1,3
+REQ-00371,2025-04-29,,Rafael Uribe,WASTE COLLECTION,  Phone ,Open,Low,1,
+REQ-01000,23/03/2025,03-28-2025,puente aranda,Water Leak,Phone,Closed,Medium,5,2
+REQ-00879,2025-12-14,15/12/2025,FONTIBON,Pothole,In Person,closed,MEDIUM,1,4
+REQ-00121,07/01/2025,2025-01-13,RAFAEL URIBE,Park Maintenance,Web,Closed,  Medium ,6,1
+REQ-00918,02/04/2025,,CANDELARIA,Noise Complaint,Mobile App,Closed,Medium,8,3
+REQ-00867,2025-01-16,17/01/2025,Bosa,Streetlight,Mobile App,closed,LOW,1,2
+REQ-00240,04/01/2026,2026-01-11,Fontibon,Noise Complaint,Social Media,CLOSED,LOW,7,1
+REQ-00818,07-07-2025,2025-07-17,Puente Aranda,Water Leak,phone,Closed,Low,10,1
+REQ-00512,2025-09-20,2025-09-22,Candelaria,  Water Leak ,Mobile App,Closed,Critical,2,4
+REQ-00790,2026-04-07,,SUBA,Pothole,in person,Open,  High ,25,
+REQ-00327,15/03/2026,24/03/2026,Fontibon,Streetlight,Mobile App,Closed,high,9,4
+REQ-00575,2026-06-30,07-02-2026,Santa Fe,Graffiti,Phone,Closed,  Critical ,2,3
+REQ-00213,2025-11-04,,Ciudad Bolivar,  Park Maintenance ,In Person,In Progress,  High ,6,
+REQ-00150,2026-01-08,2026-02-04,Antonio Narino,Pothole,Mobile App,Closed,Critical,27,3
+REQ-00420,2026-06-15,2026-06-23,  Usaquen ,Sidewalk Repair,In Person,Closed,  Medium ,8,5
+REQ-00950,04-12-2025,,Martires,Waste Collection,phone,Open,medium,8,
+REQ-00179,2025-10-24,,sumapaz,Park Maintenance,Web,In Progress,Medium,4,
+REQ-00304,2026-06-17,06-17-2026,  Teusaquillo ,Graffiti,Web,Closed,Medium,0,1
+REQ-00148,10-26-2025,2025-10-29,  Bosa ,sidewalk repair,Mobile App,  Closed ,Medium,3,
+REQ-00122,2025-07-24,07-26-2025,San Cristobal,Water Leak,WEB,Closed,Low,2,4
+REQ-00099,2025-10-30,2025-11-05,san cristobal,  Water Leak ,Web,Closed,Medium,6,5
+REQ-00128,07/07/2025,08/07/2025,  San Cristobal ,Pothole,Phone,Closed,High,1,5
+REQ-00419,2026-01-07,2026-01-11,FONTIBON,  Water Leak ,  Mobile App ,closed,  High ,4,2
+REQ-00623,12-31-2025,2026-01-02,TUNJUELITO,Water Leak,Phone,Closed,Critical,2,3
+REQ-00155,14/07/2025,,PUENTE ARANDA,Sidewalk Repair,  Phone ,In Progress,Low,12,
+REQ-00955,2025-07-28,2025-08-06,Tunjuelito,Water Leak,Web,closed,Low,,4
+REQ-00798,2026-03-09,2026-03-10,Rafael Uribe,Streetlight,Mobile App,closed,Medium,1,5
+REQ-00615,03/05/2026,,Candelaria,Park Maintenance,Mobile App,Open,Critical,12,
+REQ-00736,17/01/2026,,Fontibon,  Pothole ,Social Media,CLOSED,HIGH,6,
+REQ-00885,08/05/2025,08/05/2025,Chapinero,Graffiti,Web,Closed,Critical,0,2
+REQ-00757,2025-05-08,05-13-2025,Chapinero,  Streetlight ,Social Media,Cancelled,high,5,3
+REQ-00135,21/07/2025,2025-07-23,,Pothole,phone,Closed,Low,2,2
+REQ-00058,2025-06-04,06-08-2025,santa fe,Streetlight,SOCIAL MEDIA,Closed,Critical,4,3
+REQ-00488,05-05-2025,05-09-2025,Chapinero,Waste Collection,In Person,Closed,High,4,1
+REQ-00712,12-02-2025,2025-12-08,  Candelaria ,Streetlight,  In Person ,In Progress,Medium,6,
+REQ-00363,2025-08-13,13/08/2025,Bosa,  Pothole ,web,Cancelled,Medium,0,4
+REQ-00130,2026-03-06,14/03/2026,ciudad bolivar,Graffiti,In Person,Cancelled,Low,8,5
+REQ-00783,04-13-2026,,Antonio Narino,PARK MAINTENANCE,IN PERSON,In Progress,High,4,
+REQ-00845,2025-04-24,2025-04-25,Ciudad Bolivar,Streetlight,Phone,Closed,MEDIUM,1,3
+REQ-00414,04-01-2025,,antonio narino,,Web,In Progress,Critical,3,
+REQ-00559,2026-03-17,,Rafael Uribe,Noise Complaint,Phone,In Progress,Low,4,
+REQ-00264,2025-01-04,2025-01-07,Ciudad Bolivar,Park Maintenance,Social Media,  Closed ,  High ,3,4
+REQ-00454,2026-02-22,27/02/2026,  Kennedy ,Noise Complaint,Web,Cancelled,Medium,5,1
+REQ-00217,08-26-2025,09-07-2025,PUENTE ARANDA,GRAFFITI,in person,Closed,LOW,12,3
+REQ-00656,2025-08-11,,Fontibon,  Streetlight ,Web,Open,Critical,7,
+REQ-00057,2026-05-24,,Sumapaz,Pothole,Social Media,Open,  High ,5,
+REQ-00807,2026-02-10,10/02/2026,  San Cristobal ,Sidewalk Repair,Social Media,In Progress,Medium,0,
+REQ-00966,08/03/2026,2026-03-11,Usme,Pothole,IN PERSON,CLOSED,Medium,3,
+REQ-00206,2025-07-11,25/07/2025,Puente Aranda,Waste Collection,web,closed,Critical,14,4
+REQ-00416,2025-01-05,2025-01-07,Chapinero,Sidewalk Repair,  Social Media ,CLOSED,Medium,,2
+REQ-00536,2025-12-05,2025-12-06,Bosa,  Park Maintenance ,In Person,  Closed ,High,1,3
+REQ-00140,2025-10-25,2025-11-15,Puente Aranda,Sidewalk Repair,Social Media,Closed,medium,21,3
+REQ-00338,02-21-2025,2025-02-24,Usme,Sidewalk Repair,  Social Media ,CLOSED,medium,3,3
+REQ-00391,09/03/2025,12/03/2025,Kennedy,Water Leak,IN PERSON,  Closed ,Medium,3,
+REQ-00006,2025-02-30,2025-09-15,Sumapaz,PARK MAINTENANCE,Social Media,  Closed ,Critical,5,3
+REQ-00633,2025-10-18,,  Teusaquillo ,Streetlight,Web,Open,Low,13,
+REQ-00318,03-11-2025,2025-03-13,Ciudad Bolivar,  Water Leak ,Phone,Closed,Low,2,5
+REQ-00147,2025-05-10,2025-05-24,TEUSAQUILLO,noise complaint,Phone,Cancelled,medium,14,5
+REQ-00097,16/03/2026,2026-03-20,sumapaz,  Noise Complaint ,MOBILE APP,closed,Critical,4,1
+REQ-00648,2025-06-10,20/06/2025,Sumapaz,  Waste Collection ,Mobile App,closed,  Critical ,10,3
+REQ-00974,2025-02-14,02-14-2025,Puente Aranda,Water Leak,Social Media,Cancelled,HIGH,0,4
+REQ-00084,2026-05-18,2026-05-19,Teusaquillo,SIDEWALK REPAIR,Phone,CLOSED,  High ,1,4
+REQ-00430,22/05/2026,05-24-2026,Rafael Uribe,Pothole,  Mobile App ,Closed,Low,2,5
+REQ-00840,2026-05-21,,  Chapinero ,Streetlight,Web,Open,Medium,1,
+REQ-00233,22/04/2026,2026-04-25,KENNEDY,Park Maintenance,Phone,Closed,Low,3,5
+REQ-00486,02/03/2026,,Usaquen,,SOCIAL MEDIA,IN PROGRESS,Medium,2,2
+REQ-00176,01-07-2026,2026-01-19,Usme,Pothole,In Person,CLOSED,Medium,12,1
+REQ-00024,06-16-2025,06-25-2025,Chapinero,Noise Complaint,social media,CANCELLED,LOW,9,4
+REQ-00113,08-25-2025,2025-08-31,Barrios Unidos,Sidewalk Repair,Social Media,CLOSED,Low,6,2
+REQ-00038,08/12/2025,2025-12-09,TUNJUELITO,Waste Collection,Social Media,Closed,High,1,5
+REQ-00181,2025-12-14,2025-12-21,Suba,Streetlight,IN PERSON,Closed,  Medium ,7,1
+REQ-00993,2026-01-05,01-07-2026,Rafael Uribe,Graffiti,In Person,Cancelled,CRITICAL,2,5
+REQ-00516,29/03/2026,,TUNJUELITO,STREETLIGHT,Mobile App,Open,Low,0,
+REQ-00182,06-20-2025,06-21-2025,Sumapaz,Sidewalk Repair,mobile app,CLOSED,Low,1,4
+REQ-00948,23/04/2025,2025-04-23,Chapinero,Water Leak,In Person,CLOSED,Critical,0,3
+REQ-00610,2026-02-02,02-03-2026,ENGATIVA,Pothole,Mobile App,Closed,Medium,1,1
+REQ-00453,28/06/2026,07-02-2026,Antonio Narino,NOISE COMPLAINT,Phone,CLOSED,  Critical ,4,5
+REQ-00811,2025-05-24,,chapinero,pothole,In Person,In Progress,CRITICAL,0,
+REQ-00766,08/06/2025,2025-06-09,Barrios Unidos,Waste Collection,SOCIAL MEDIA,Closed,  Medium ,1,4
+REQ-00165,03/01/2026,01-04-2026,CANDELARIA,Waste Collection,SOCIAL MEDIA,Closed,  Critical ,1,1
+REQ-00733,2025-06-08,2025-06-22,Santa Fe,Water Leak,  Phone ,Closed,Medium,14,1
+REQ-00943,2025-12-13,,USME,Waste Collection,In Person,In Progress,Medium,2,
+REQ-00073,2025-02-03,,Engativa,Noise Complaint,WEB,open,,18,5
+REQ-00133,06-08-2025,,Teusaquillo,Streetlight,MOBILE APP,in progress,Low,14,
+REQ-00749,2025-12-20,25/12/2025,usaquen,Water Leak,MOBILE APP,cancelled,Medium,5,4
+REQ-00053,2026-06-16,17/06/2026,Candelaria,Park Maintenance,  Phone ,Cancelled,Medium,1,4
+REQ-00968,01-10-2026,2026-01-12,Suba,Pothole,PHONE,Cancelled,Medium,2,4
+REQ-00621,2026-04-15,,ciudad bolivar,Pothole,Social Media,  In Progress ,Critical,5,
+REQ-00203,2025-06-07,2025-06-10,Tunjuelito,Pothole,Mobile App,Closed,Medium,3,3
+REQ-00922,06/02/2025,2025-02-12,Teusaquillo,Water Leak,Mobile App,Cancelled,critical,6,3
+REQ-00532,2025-11-19,,TEUSAQUILLO,Waste Collection,Web,Open,High,2,
+REQ-00474,2025-11-04,,Antonio Narino,Streetlight,Phone,Open,  Low ,6,2
+REQ-00083,12-01-2025,02/12/2025,SUBA,water leak,Phone,Cancelled,Medium,1,2
+REQ-00548,2025-06-30,07-05-2025,Engativa,Noise Complaint,In Person,Closed,Medium,5,5
+REQ-00956,03/02/2026,,,Streetlight,In Person,Open,Medium,0,2
+REQ-00372,10/01/2025,2025-01-10,Usme,  Graffiti ,  Web ,Closed,Low,0,3
+REQ-00209,2025-06-03,04/06/2025,San Cristobal,Pothole,Mobile App,Cancelled,Low,1,2
+REQ-00436,05/10/2025,,Tunjuelito,Noise Complaint,In Person,open,Medium,2,
+REQ-00008,2025-11-12,,Usme,Park Maintenance,  Social Media ,open,Medium,5,
+REQ-00572,2025-01-11,,  Usaquen ,WASTE COLLECTION,  Phone ,Cancelled,Critical,0,1
+REQ-00276,2025-09-19,09-20-2025,Engativa,Water Leak,  Phone ,Cancelled,Medium,1,3
+REQ-00044,2026-03-01,,  Santa Fe ,  Noise Complaint ,Mobile App,In Progress,  Critical ,,
+REQ-00413,10-10-2025,,puente aranda,Waste Collection,Web,  In Progress ,High,2,
+REQ-00324,14/06/2026,,Engativa,waste collection,Social Media,Open,  Critical ,9,
+REQ-00481,05-24-2026,2026-05-26,MARTIRES,  Water Leak ,SOCIAL MEDIA,Closed,Critical,2,5
+REQ-00090,26/02/2026,,Puente Aranda,Graffiti,Web,OPEN,MEDIUM,8,
+REQ-00794,2025-02-05,23/02/2025,  Usme ,Park Maintenance,  Web ,Closed,LOW,18,5
+REQ-00694,02/12/2025,2025-12-03,Santa Fe,noise complaint,Mobile App,  Cancelled ,Critical,1,2
+REQ-00542,2025-09-11,2025-09-16,Tunjuelito,Noise Complaint,Phone,Closed,MEDIUM,5,3
+REQ-00734,2025-05-24,05-28-2025,Fontibon,Waste Collection,Web,Closed,Medium,4,1
+REQ-00970,2025-04-29,2025-05-15,Ciudad Bolivar,Park Maintenance,Social Media,CANCELLED,Critical,16,4
+REQ-00085,2025-05-20,,Antonio Narino,WATER LEAK,  Social Media ,In Progress,MEDIUM,2,2
+REQ-00347,2025-10-09,06/11/2025,Usme,Pothole,In Person,Closed,medium,28,3
+REQ-00581,02-11-2026,2026-02-21,Candelaria,Pothole,In Person,Closed,Medium,10,2
+REQ-00871,27/04/2025,2025-04-30,USME,STREETLIGHT,In Person,CLOSED,Medium,3,5
+REQ-00184,2025-05-05,2025-05-09,MARTIRES,Streetlight,Web,Closed,Critical,4,1
+REQ-00677,21/05/2025,2025-06-01,Tunjuelito,Waste Collection,  Web ,Closed,LOW,11,5
+REQ-00473,2025-12-19,21/12/2025,SAN CRISTOBAL,Pothole,In Person,Closed,  High ,2,3
+REQ-00156,11/04/2025,13/04/2025,Usaquen,  Sidewalk Repair ,Mobile App,CLOSED,  High ,2,4
+REQ-00218,04-18-2026,21/04/2026,Bosa,Water Leak,In Person,In Progress,Medium,3,
+REQ-00699,2025-03-08,13/03/2025,,Park Maintenance,web,closed,Critical,5,2
+REQ-00883,30/05/2025,05-30-2025,Usaquen,GRAFFITI,Social Media,closed,Medium,0,
+REQ-00398,17/12/2025,2026-01-17,  Kennedy ,Sidewalk Repair,  Phone ,Closed,Low,31,1
+REQ-00843,2025-04-20,,Chapinero,  Noise Complaint ,Social Media,Closed,Medium,7,3
+REQ-00383,04-30-2026,,Usaquen,Water Leak,  Mobile App ,Open,Critical,10,
+REQ-00808,2025-05-16,2025-05-18,Rafael Uribe,Graffiti,Web,  Closed ,High,2,3
+REQ-00924,26/12/2025,2025-12-29,Puente Aranda,Graffiti,In Person,Closed,Medium,,3
+REQ-00812,28/05/2026,31/05/2026,  Rafael Uribe ,SIDEWALK REPAIR,phone,CANCELLED,High,3,1
+REQ-00222,2025-09-29,,  Bosa ,Pothole,Web,Closed,Low,2,5
+REQ-00603,31/07/2025,2025-08-04,San Cristobal,Graffiti,  Mobile App ,  Closed ,Medium,4,1
+REQ-00628,2026-06-23,06-28-2026,Sumapaz,SIDEWALK REPAIR,Web,Closed,High,5,2
+REQ-00740,2026-01-31,2026-02-11,Barrios Unidos,Noise Complaint,  Web ,CLOSED,critical,11,1
+REQ-00432,2026-01-24,29/01/2026,Santa Fe,Park Maintenance,PHONE,closed,  High ,5,4
+REQ-00205,18/06/2026,2026-06-19,Tunjuelito,water leak,PHONE,In Progress,Critical,1,
+REQ-00502,2026-03-19,19/03/2026,Santa Fe,  Sidewalk Repair ,Phone,Cancelled,Medium,0,4
+REQ-00639,2026-04-06,14/04/2026,Santa Fe,Noise Complaint,Phone,Closed,  Low ,8,4
+REQ-00961,12-21-2025,2025-12-25,Antonio Narino,Park Maintenance,In Person,Closed,  High ,4,3
+REQ-00092,10/09/2025,,Teusaquillo,Graffiti,Phone,Open,low,2,
+REQ-00552,2025-02-24,02-25-2025,Kennedy,Noise Complaint,IN PERSON,Closed,medium,1,4
+REQ-00718,10-01-2025,2025-10-04,San Cristobal,  Streetlight ,In Person,closed,CRITICAL,3,1
+REQ-00701,24/11/2025,2025-11-25,Chapinero,Graffiti,Phone,CLOSED,Critical,1,1
+REQ-00544,07-04-2025,,Suba,Pothole,MOBILE APP,  In Progress ,Medium,0,
+REQ-00393,30/11/2025,30/11/2025,KENNEDY,  Pothole ,web,closed,Low,0,4
+REQ-00747,2026-06-05,,Usaquen,waste collection,  Mobile App ,In Progress,High,6,
+REQ-00258,04-03-2025,2025-04-10,Barrios Unidos,  Pothole ,Social Media,Closed,critical,7,4
+REQ-00089,06/03/2026,,Engativa,Noise Complaint,Social Media,open,Medium,0,
+REQ-00779,2025-06-30,2025-07-05,Bosa,Pothole,Phone,Closed,Low,,1
+REQ-00273,01/05/2026,,PUENTE ARANDA,Noise Complaint,Social Media,Open,Critical,2,4
+REQ-00509,02/04/2026,,tunjuelito,Sidewalk Repair,In Person,In Progress,Low,6,
+REQ-00472,2025-01-16,,Chapinero,Graffiti,Phone,  Open ,High,5,
+REQ-00367,01/01/2026,2026-01-02,Santa Fe,Water Leak,Phone,Closed,,1,1
+REQ-00410,2025-09-16,2025-09-25,Barrios Unidos,SIDEWALK REPAIR,In Person,  Cancelled ,LOW,9,1
+REQ-00780,02-10-2026,2026-02-15,Tunjuelito,Sidewalk Repair,Web,Closed,Medium,5,4
+REQ-00828,31/07/2025,2025-07-31,Usme,Streetlight,Mobile App,in progress,Low,0,1

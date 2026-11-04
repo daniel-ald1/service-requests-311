@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- I connect this workbook to ../data_clean/requests_clean.csv with a path relative to this file, so Tableau Public opens it without remapping. -->
+<workbook source-platform='win' version='2025.1' source-build='20251.25.0313.2002' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+  </preferences>
+  <datasources>
+    <datasource caption='requests_clean' inline='true' name='textscan.requests_clean'>
+      <connection class='textscan' directory='' filename='../data_clean/requests_clean.csv' header='yes'>
+        <relation name='requests_clean.csv' table='[requests_clean.csv]' type='table' />
+      </connection>
+      <column caption='Request ID' datatype='string' name='[request_id]' role='dimension' type='nominal' />
+      <column caption='Created Date' datatype='date' name='[created_date]' role='dimension' type='ordinal' />
+      <column caption='Closed Date' datatype='date' name='[closed_date]' role='dimension' type='ordinal' />
+      <column caption='District' datatype='string' name='[district]' role='dimension' type='nominal' />
+      <column caption='Request Type' datatype='string' name='[request_type]' role='dimension' type='nominal' />
+      <column caption='Channel' datatype='string' name='[channel]' role='dimension' type='nominal' />
+      <column caption='Status' datatype='string' name='[status]' role='dimension' type='nominal' />
+      <column caption='Priority' datatype='string' name='[priority]' role='dimension' type='nominal' />
+      <column caption='Response Days' datatype='integer' name='[response_days]' role='measure' type='quantitative' />
+      <column caption='Satisfaction' datatype='integer' name='[satisfaction]' role='measure' type='quantitative' />
+      <column caption='Resolution Days' datatype='integer' name='[resolution_days]' role='measure' type='quantitative' />
+      <column caption='Created Month' datatype='string' name='[created_month]' role='dimension' type='ordinal' />
+    </datasource>
+  </datasources>
+  <worksheets />
+</workbook>

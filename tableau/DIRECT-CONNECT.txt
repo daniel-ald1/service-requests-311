@@ -1,0 +1,8 @@
+MANUAL TABLEAU TEXT CONNECT (no working .twb in repo)
+1. Tableau Desktop > Connect > To a File > Text file
+2. Select this exact file:
+D:\Games\HDvWorkspace\Projects\WIP\service-requests-311\data_clean\requests_clean.csv
+3. Encoding: UTF-8. Delimiter: comma. Header row: yes.
+Columns (12):
+request_id, created_date, closed_date, district, request_type, channel, status, priority, response_days, satisfaction, resolution_days, created_month
+Notes: 1000 data rows. Dates YYYY-MM-DD. Open rows have blank closed_date/satisfaction/resolution_days. Both .twb files in this folder are intentionally named .broken.twb and do not open cleanly — use this CSV directly.
