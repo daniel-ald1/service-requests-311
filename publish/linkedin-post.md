@@ -10,7 +10,7 @@ Three recommendations with targets in the repo. SQL, Python, Tableau.
 
 Repo: [GITHUB-LINK]
 Kaggle: [KAGGLE-LINK]
-Tableau: [TABLEAU-LINK]
+Tableau: https://public.tableau.com/app/profile/daniel.aldana3931/viz/311ServiceRequests-Capstone/311ServiceRequests-Capstone
 
 Open to Support Analyst and Data Analyst roles (Bogota / remote). Feedback
 welcome.

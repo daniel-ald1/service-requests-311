@@ -22,4 +22,4 @@ py build_clean.py
 py analysis.py
 sqlite3 service-requests.db < sql/analysis.sql
 
-Charts in charts/. Tableau: (pending, add link).
+Charts in charts/. Tableau: https://public.tableau.com/app/profile/daniel.aldana3931/viz/311ServiceRequests-Capstone/311ServiceRequests-Capstone

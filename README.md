@@ -105,7 +105,10 @@ marked, and the resolution-by-priority bars with the 5.8/5.1/5.3/5.2 values
 labeled (that last one is the chart people argue with, so the labels stay).
 
 Tableau mirrors the same three views plus KPI tiles (1000 tickets, 26.1%
-backlog, Noise 145) on a 1600x900 dashboard. Here are the Python versions:
+backlog, Noise 145) on a 1600x900 dashboard, published here:
+https://public.tableau.com/app/profile/daniel.aldana3931/viz/311ServiceRequests-Capstone/311ServiceRequests-Capstone
+
+Here are the Python versions:
 
 ![Top request types](charts/top_request_types.png)
 
