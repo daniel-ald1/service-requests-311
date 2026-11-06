@@ -1,10 +1,10 @@
-SHORT DESCRIPTION (GitHub About):
+Short description (paste into GitHub About):
 My Google Data Analytics capstone on 1000 synthetic 311 tickets (SQL, Python, Tableau): 26.1% backlog, Noise leads at 145, priority doesn't buy speed, Water Leak trails at 2.78 of 5.
 
-TOPICS:
+Topics:
 data-analytics, sql, python, tableau
 
-ABOUT SECTION:
+About section:
 # 311 Service Requests, capstone (Case 3, own path)
 
 Final course of the Google Data Analytics certificate, "bring your own data"

@@ -1,4 +1,4 @@
-# 311 Service Requests, my Google Data Analytics capstone (Case 3)
+# 311 Service Requests
 
 For the final course of the certificate I did the "bring your own data"
 track and picked 311 calls, close to the support work I've done. The dataset
@@ -25,7 +25,7 @@ hole at 2.78 of 5 vs 3.08 overall, while top-volume Noise scores best at
 Charts plus a Tableau dashboard mirror the same three views. Tableau was
 built in Public from the clean CSV; steps in `tableau/TABLEAU-CONNECT.md`.
 
-Limits, stated plainly: synthetic data, one snapshot, 26 Closed tickets with
+What I'd do differently: synthetic data, one snapshot, 26 Closed tickets with
 no close date that I worked around instead of solving. I'd validate against
 a second pull before spending on any of it.
 

@@ -1,4 +1,4 @@
-﻿# 311 Service Requests (Google Data Analytics capstone)
+﻿# 311 Service Requests
 
 For the last course of the Google Data Analytics certificate I had to do a
 case study, and I went with the "bring your own data" option. I picked 311
