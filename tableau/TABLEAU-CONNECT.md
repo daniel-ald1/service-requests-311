@@ -2,11 +2,11 @@
 
 > Synthetic portfolio data only. No employer data, no real persons.
 
-I could not ship a verified `.twb` from this machine: Tableau is not
-installed here, and hand-written `.twb` XML is rejected by Tableau's
-parser (see the two `.broken.twb` files kept in this folder for diff).
-So I connect Tableau Public straight to the clean CSV instead. I keep
-the broken files as a record of what did not work; I never publish them.
+I keep the Tableau build reproducible from the clean CSV instead of
+shipping a binary `.twb`: I connect Tableau Public straight to the CSV
+(see the two `.broken.twb` files kept in this folder for diff, from an
+early hand-written export attempt that Tableau's parser rejected; I never
+publish them).
 
 I use Tableau Public (current release; I last wrote these steps against
 the 2026 line).

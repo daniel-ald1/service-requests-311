@@ -116,8 +116,7 @@ Here are the Python versions:
 
 ![Avg resolution days by priority](charts/avg_resolution_by_priority.png)
 
-Tableau isn't installed on this
-machine, so I built it in Tableau Public straight from
+I built the dashboard in Tableau Public straight from
 `data_clean/requests_clean.csv`; exact clicks in `tableau/TABLEAU-CONNECT.md`.
 
 ## Act
