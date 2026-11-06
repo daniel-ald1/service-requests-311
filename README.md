@@ -104,8 +104,7 @@ sorted with counts on the bars, the 18-month volume line with peak and valley
 marked, and the resolution-by-priority bars with the 5.8/5.1/5.3/5.2 values
 labeled (that last one is the chart people argue with, so the labels stay).
 
-Tableau mirrors the same three views plus KPI tiles (1000 tickets, 26.1%
-backlog, Noise 145) on a 1600x900 dashboard, published here:
+Interactive dashboard (Tableau Public):
 https://public.tableau.com/app/profile/daniel.aldana3931/viz/311ServiceRequests-Capstone/311ServiceRequests-Capstone
 
 Here are the Python versions:
@@ -116,8 +115,7 @@ Here are the Python versions:
 
 ![Avg resolution days by priority](charts/avg_resolution_by_priority.png)
 
-I built the dashboard in Tableau Public straight from
-`data_clean/requests_clean.csv`; exact clicks in `tableau/TABLEAU-CONNECT.md`.
+Built from `data_clean/requests_clean.csv`; exact clicks in `tableau/TABLEAU-CONNECT.md`.
 
 ## Act
 
